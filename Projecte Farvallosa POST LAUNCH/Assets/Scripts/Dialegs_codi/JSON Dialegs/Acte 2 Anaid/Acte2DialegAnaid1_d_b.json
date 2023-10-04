@@ -1,0 +1,159 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "mirarVoltant"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "Diu vosté  que venia a per ofertes de treball, però no veig ací dins cap cartell ni paper que ho anuncie.  ",
+            "textCastellano" :
+                "Dice usted que venía a por ofertas de trabajo, pero no veo aquí dentro ningún cartel ni papel que lo anuncie.  ",
+            "textEnglish" :
+                "You say that you came for job offers, but I don't see here any banner or paper that announce that.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "A més, no es ara una hora molt tardia per a buscar contractants?  ",
+            "textCastellano" :
+                "Además, ¿no es ahora una hora muy tardía para buscar contratantes?  ",
+            "textEnglish" :
+                "Also, is not this a very late hour for looking for employing?  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Hui no, però alguns dies si que hagueren anuncis ací.  ",
+            "textCastellano" :
+                "Hoy no, pero algunos días sí que habían anuncios aquí.  ",
+            "textEnglish" :
+                "Not today, but some days there were announcements here.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Altres vegades, el propi contractant es queda en el bar durant un temps, i oferix la feina al qui trobe interesat.  ",
+            "textCastellano" :
+                "Otras veces, el propio contratante se queda en el bar durante un tiempo, y ofrece el trabajo al que vea interesado.  ",
+            "textEnglish" :
+                "Other times, the employer himself remains in the bar for a while, and offers the job to whoever is interested.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "En tot cas, fa falta trobar prompte aquestes ofertes perque altra gent les pot agafar el mateix dia en que s'exposen.  ",
+            "textCastellano" :
+                "En todo caso, hace falta encontrar pronto estas ofertas porque otra gente las puede pillar el mismo día en que se exponen.  ",
+            "textEnglish" :
+                "Anyway, it's necessary to find soon those offers because other people can get them in the first day they are displayed.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Molta gent depen d'aquestes feines, humans i semigats. Per això tinc que revisar els bars cada dia.  ",
+            "textCastellano" :
+                "Mucha gente depende de estos trabajos, humanos y semigatos. Por eso tengo que revisar los bares cada día.  ",
+            "textEnglish" :
+                "Many people, human and semicats, depend on this jobs. That's why I need to check out every bar each day.  "
+        }
+        
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "ANAID",
+        "idPersonatge": "Anaid",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "escoltar"
+            },
+            {
+                "idPersonatge" : "Anaid",
+                "anim" : "enfadada_callar"
+            }
+        ],
+        "textValencia" :
+            "Podriem parar un moment per a beure un got d'aigua? Amb tant de xarrar se m'ha secat la boca...  ",
+        "textCastellano" :
+            "¿Podemos parar un momento para beber un vaso de agua? Con tanto hablar se me ha secado la boca...  ",
+        "textEnglish" :
+            "Can we stop a moment to drink a cup of water? All that talking made me thirsty...  "
+    }
+}

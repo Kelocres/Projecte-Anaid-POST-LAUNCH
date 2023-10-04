@@ -1,0 +1,275 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "salutacio"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Bona nit.  ",
+            "textCastellano" :
+                "Buenas noches.  ",
+            "textEnglish" :
+                "Good night.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "salutacio"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Soc Andreu, el detectiu del poble, i necessite la seua col·laboració per a ressoldre aquest incident. ",
+            "textCastellano" :
+                "Soy Andreu, el detective del pueblo, y necesito su colaboración para resolver este incidente.  ",
+            "textEnglish" :
+                "I'm Andreu, this town's detective, and I need your collaboration to solve this incident.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Com puc referir-me a vosté?  ",
+            "textCastellano" :
+                "¿Cómo puedo referirme a usted?  ",
+            "textEnglish" :
+                "How should I refer to you?  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Lòrenei, em dic.  ",
+            "textCastellano" :
+                "Lórenei, me llamo.  ",
+            "textEnglish" :
+                "Lorenei, that's my name.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "salutacio"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Encantat, Lòrenei.  ",
+            "textCastellano" :
+                "Encantado, Lórenei.  ",
+            "textEnglish" :
+                "Nice to meet you, Lorenei.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Pertany vosté a la familia de fades que viuen en el temple fora del poble, veritat?  ",
+            "textCastellano" :
+                "Pertenece usted a la familia de hadas que viven en el templo fuera del pueblo, ¿verdad?  ",
+            "textEnglish" :
+                "You belong to the fairy's family that live in the temple outside town, don't you?  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "A vosté que li pareix?  ",
+            "textCastellano" :
+                "¿A usted qué le parece?  ",
+            "textEnglish" :
+                "What do you think?  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Ja, admitixc que és una obvietat...  ",
+            "textCastellano" :
+                "Ya, admito que es una obviedad...  ",
+            "textEnglish" :
+                "Yeah, I admit it is pretty obvious...  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Però degut a que vostés quasi mai venen al poble, considerava que...  ",
+            "textCastellano" :
+                "Pero debido a que ustedes casi nunca vienen al pueblo, consideraba que...  ",
+            "textEnglish" :
+                "But fairies almost never come to town, so I guessed...  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Les fades no venim al poble, senyor detectiu, perque els humans s'irriten si veuen més éssers màgics de lo normal.  ",
+            "textCastellano" :
+                "Las hadas no venimos al pueblo, señor detective, porque los humanos se irritan si ven más seres mágicos de lo normal.  ",
+            "textEnglish" :
+                "We the fairies don't come to town, mister detective, because humans irritate if they see more magical beings than usual.  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "La raó per la qual he vingut aquesta nit és una causa excepcional.  ",
+            "textCastellano" :
+                "La razón por la cual vine esta noche es una causa excepcional.  ",
+            "textEnglish" :
+                "The reason why I came tonight is an exceptional case.  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "I per una volta que vinc, em retenen per un crimen que no he comés!  ",
+            "textCastellano" :
+                "¡Y por una vez que vengo, me retienen por un crimen que no he cometido!  ",
+            "textEnglish" :
+                "And I am suddenly retained for a crime I didn't commit!  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Així que faça vosté la seua feina i acabe amb açò d'una vegada.  ",
+            "textCastellano" :
+                "Así que haga usted su trabajo y acabe con esto cuanto antes.  ",
+            "textEnglish" :
+                "So you better do your job and end this as soon as possible.  "
+        }
+
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                }
+            ],
+            "textValencia" :
+                "Bé, ja he interrogat a tots els sospitosos.  ",
+            "textCastellano" :
+                "Bien, ya he interrogado a todos los sospechosos.  ",
+            "textEnglish" :
+                "Well, I've interrogated all suspects.  "
+        },
+
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                }
+            ],
+            "textValencia" :
+                "És hora de reunir-los tots i solventar el cas.  ",
+            "textCastellano" :
+                "Es hora de reunirlos a todos y resolver el caso.  ",
+            "textEnglish" :
+                "It's time to bring them all together and solve the case.  "
+        }
+        
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    }
+}

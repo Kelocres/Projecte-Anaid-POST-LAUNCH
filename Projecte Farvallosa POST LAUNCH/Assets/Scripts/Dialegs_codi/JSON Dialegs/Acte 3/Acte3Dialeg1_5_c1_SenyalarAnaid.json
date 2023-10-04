@@ -1,0 +1,532 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "basic_callar"
+                }
+            ],
+            "textValencia" :
+                "La assassina és Anaíd, la semigata!  ",
+            "textCastellano" :
+                "¡La asesina es Anaíd, la semigata!  ",
+            "textEnglish" :
+                "The murderer is Anaid, the semicat!  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar",
+                    "canviaOrientacio": -1
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "desconfiat_callat",
+                    "canviaOrientacio": -1
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "COOOOOMM!!  ",
+            "textCastellano" :
+                "¡¡COOMOOOO!!  ",
+            "textEnglish" :
+                "WHAAAAAAAT!!  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar",
+                    "canviaOrientacio": 1
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat",
+                    "canviaOrientacio": 1
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                }
+                
+            ],
+            "textValencia" :
+                "He d'admetre que és vosté molt astuta.  ",
+            "textCastellano" :
+                "He de admitir que es usted muy astuta.  ",
+            "textEnglish" :
+                "I have to admit you are very clever.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+                
+            ],
+            "textValencia" :
+                "Al confesar les seues activitats criminals amb el senyor Kieras, volia fer-me creure que era vosté la menys interesada en matar-lo.  ",
+            "textCastellano" :
+                "Al confesar sus actividades criminales con el señor Kieras, quería hacerme creer que era usted la menos interesada en matarlo.  ",
+            "textEnglish" :
+                "Confessing your criminal activities with mister Kieras, you wanted to make me think you were the least interested in killing him.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+                
+            ],
+            "textValencia" :
+                "Perque necessitava els diners que li pagava. Però hi ha més coses que no m'ha contat, veritat?  ",
+            "textCastellano" :
+                "Porque necesitaba el dinero que le pagaba. Pero hay más cosas que no me ha contado, ¿verdad?  ",
+            "textEnglish" :
+                "Because you needed the money he gave you. But there is more stuff that you haven't told me, have you?  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "...  ",
+            "textCastellano" :
+                "...  ",
+            "textEnglish" :
+                "...  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                }
+            ],
+            "textValencia" :
+                "Vosté es va adonar que, si era vosté la que furtara per a ell, Maiquel no sols tendria el botí que no podia aconseguir per ell mateixa.  ",
+            "textCastellano" :
+                "Usted se dió cuenta que, si era usted la que robara para él, Maiquel no sólo tendría el botín que no podía conseguir él mismo.  ",
+            "textEnglish" :
+                "You realised that, if you were the thieft, Michael wouldn't get only the loot that was inaccessible for him.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "Si el crimen fora descobert, les pistes la senyalarien a vosté, i acabaria a presó prompte o tard.  ",
+            "textCastellano" :
+                "Si el crimen fuese descubierto, las pistas la señalarían a usted, y acabaría en la prisión tarde o temprano.  ",
+            "textEnglish" :
+                "If the crime would be discovered, the clues will incriminate you, and you will end up in prison sooner or later.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "I ell, que sabia com evadir a la llei, quedaria lliure i trobaria a una altra persona desesperada per a utilitzar-la.  ",
+            "textCastellano" :
+                "Y él, que sabía cómo evadir a la ley, quedaría libre y encontraría a otra persona desesperada para utilizarla.  ",
+            "textEnglish" :
+                "And he, who knew how to evade the law, will be free and will find another desesperate person to use.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                }
+            ],
+            "textValencia" :
+                "I m'atreveria a dir que, si m'ha confessat tan fàcilment la irrupció il·legal en l'esglèsia, serà perque ha comés delictes més greus per a ell.  ",
+            "textCastellano" :
+                "Y me atrevería a decir que, si me ha confesado tan fácilmente la irrupción ilegal en la iglesia, será porque ha cometido delitos más graves para él.  ",
+            "textEnglish" :
+                "And I dare say that, if you confessed so easily the illegal entry in the church, is because worse crimes were commited for him.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "El furt de la relíquia de les fades, per exemple?  ",
+            "textCastellano" :
+                "¿El robo de la reliquia de las hadas, por ejemplo?  ",
+            "textEnglish" :
+                "The theft of the fairies's relic, for example?  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "...  ",
+            "textCastellano" :
+                "...  ",
+            "textEnglish" :
+                "...  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "A més de possibles mòbils, vosté es la que millor sabia que el senyor Kieras estaria ací a esta hora. Segurament per a tancar algun tracte.  ",
+            "textCastellano" :
+                "Además de posibles móviles, usted es la que mejor sabía que el señor Kieras estaría aquí a esta hora. Seguramente para cerrar algún trato.  ",
+            "textEnglish" :
+                "In addition to possible mobiles, you knew better than anyone that mister Kieras would be here in this time. Surely to close some deal.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                }
+            ],
+            "textValencia" :
+                "Així que va entrar vosté, va apagar la llum i, aprofitant la visió nocturna i l'agilitat dels semigats...  ",
+            "textCastellano" :
+                "Así que entró usted, apagó la luz y, aprovechando la visión nocturna y la agilidad de los semigatos...  ",
+            "textEnglish" :
+                "So you came in, turned off the light and, taking advantage of semicats' night vision and agility...  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                }
+            ],
+            "textValencia" :
+                "...va botar cap a Kieras, el va matar amb l'espasa que portava i va tractar de fugir sense cridar l'atenció!  ",
+            "textCastellano" :
+                "...¡saltó hacia Kieras, lo mató con la espada que llevaba y trató de huir sin llamar la atención!  ",
+            "textEnglish" :
+                "...you jumped right to Kieras, killed him with the sword you brought and tried to run away without attract any attention!  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                }
+            ],
+            "textValencia" :
+                "Va utilitzar una espasa i no les seues arpes per a fingir que el crimen l'haguera cotmés una persona humana; alguna de tantes que li la tenia jurada.  ",
+            "textCastellano" :
+                "Utilizó una espada y no sus propias zarpas para fingir que el crimen lo hubiese cometido una persona humana; alguna de tantas que se la tendría jurada.  ",
+            "textEnglish" :
+                "You used a sword and not your claws to pretend the crime was made by a human person; any one of so many that had theirs knifes out for him.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Però ocorregueren dos coses que van jugar en la seua contra:  ",
+            "textCastellano" :
+                "Pero ocurrieron dos cosas que jugaron en su contra:  ",
+            "textEnglish" :
+                "But two things happened that played against you:  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "En primer lloc, esperava que el bar estiguera ple de gent per a passar desapercebuda.  ",
+            "textCastellano" :
+                "En primer lugar, esperaba que el bar estuviera lleno de gente para pasar desapercibida.  ",
+            "textEnglish" :
+                "Firstly, you expected the bar to be full of people, so you coulb be unnoticed.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "Al estar quasi buit, les poques persones d'ací han pogut verificar que estava vosté dins del local.  ",
+            "textCastellano" :
+                "Al estar casi vacío, las pocas personas de aquí han podido verificar que estaba usted dentro del local.  ",
+            "textEnglish" :
+                "Instead of that, it was almost empty. And the few people here can verify you were inside the place.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "I en segon lloc, no va comptar amb que el sereno vinguera tan prompte al apagar-se les llums.  ",
+            "textCastellano" :
+                "Y en segundo lugar, no contó con que el sereno viniera tan pronto al apagarse las luces.  ",
+            "textEnglish" :
+                "And secondly, the night guard came here inconveniently fast whene the lights were off.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "Això la va obligar a quedar-se en el local i fingir que només era una client més.  ",
+            "textCastellano" :
+                "Eso la obligó a quedarse en el local y fingir que sólo era una cliente más.  ",
+            "textEnglish" :
+                "Because of that, you were forced to stay in the place and pretend you were just one of the clients.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                }
+            ],
+            "textValencia" :
+                "Però ja s'ha acabat, Anaíd.  ",
+            "textCastellano" :
+                "Pero ya se ha acabado, Anaíd.  ",
+            "textEnglish" :
+                "But it is over, Anaid.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "Ha sigut descoberta, i si bé encara queda el judici, puc assegurar-la que acabarà vosté en la presó durant molts anys.  ",
+            "textCastellano" :
+                "Ha sido descubierta, y si bien todavía queda el juicio, puedo asegurarla que acabará usted en la prisión durante muchos años.  ",
+            "textEnglish" :
+                "Your crime has been uncovered, and althought the trial is still remaining, I assure you that you will end up in prison for a long time.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "UN MOMENT!!  ",
+            "textCastellano" :
+                "¡¡UN MOMENTO!!  ",
+            "textEnglish" :
+                "WAIT FOR A SEC!!  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat",
+                    "canviaOrientacio" : -1
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar",
+                    "canviaOrientacio" : -1
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar",
+                    "canviaOrientacio" : -1
+                }
+            ],
+            "textValencia" :
+                "Ho admitixc! Sóc l'assassina!  ",
+            "textCastellano" :
+                "¡Lo admito! ¡Soy la asesina!  ",
+            "textEnglish" :
+                "You are right! I am the murderer!  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "I també és veritat que he comés més delictes a ordre de Kieras; molts més dels que he contat ací.  ",
+            "textCastellano" :
+                "Y también es cierto que he cometido más delitos a orden de Kieras; muchos más de los que he contado aquí.  ",
+            "textEnglish" :
+                "And it is also true that I've commited more crimes, ordered by Kieras; a lot more than I've told here.  "
+        },
+        {
+            "nom": "LÒRENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "basic_callar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Així que eres TÚ la lladre de la nostra relíquia!  ",
+            "textCastellano" :
+                "¡Así que eres TÚ la ladrona de nuestra reliquia!  ",
+            "textEnglish" :
+                "So YOU are our relic's thief!  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "No!! No vaig ser jo. Mai he tocat res relacionat amb les fades.  ",
+            "textCastellano" :
+                "¡¡No!! No fui yo. Nunca he tocado nada relacionado con las hadas.  ",
+            "textEnglish" :
+                "No!! It wasn't me. I've never touched anything related with fairies.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Però és molt possible que, en efecte, Kieras la obtinguera mitjançant un altre dels seus lladres.  ",
+            "textCastellano" :
+                "Pero es muy posible que, en efecto, Kieras la obtuviese mediante otro de sus ladrones.  ",
+            "textEnglish" :
+                "But it might be that, indeed, Kieras got it by means of another of his thiefts.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "basic_callar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar",
+                    "canviaOrientacio": 1
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat",
+                    "canviaOrientacio" : 1
+                }
+            ],
+            "textValencia" :
+                "Aleshores, sí que hi ha més gent que treballava per a ell, apart de vosté?  ",
+            "textCastellano" :
+                "Entonces, ¿sí que hay más gente que trabajaba para él, aparte de usted?  ",
+            "textEnglish" :
+                "Then, are there more people that worked for him, other than you?  "
+        }
+    ]
+    
+}

@@ -1,0 +1,39 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                }
+            ],
+            "textValencia" :
+                "Però, qui de vostés tres tendria el valor d'acabar amb la vida d'aquest home? Quina és la vertadera raó d'aquest homicidi?  ",
+            "textCastellano" :
+                "Pero, ¿quién de ustedes tres tendría el valor de acabar con la vida de este hombre? ¿Cuál es la verdadera razón de este homicidio?  ",
+            "textEnglish" :
+                "But, who of you three had the courage to take this man's life? Which is the true porpuse of this homicide?  "
+        }
+        
+
+    ],
+    "desicio":
+    {
+        "nom": "DETECTIU",
+        "idPersonatge": "AndreuDetectiu",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "interrogant"
+            }
+        ],
+        "textValencia" :
+            "Va ser la venjança? Un ajust de comptes? O tal volta silenciar algo pitjor de lo que sabem ara?  ",
+        "textCastellano" :
+            "¿Fue la venganza? ¿Un ajuste de cuentas? ¿O tal vez silenciar algo peor de lo que sabemos ahora?  ",
+        "textEnglish" :
+            "Was it revenge? A settlement of scores? Or maybe silence something worse than what we already know?  "
+    }
+}

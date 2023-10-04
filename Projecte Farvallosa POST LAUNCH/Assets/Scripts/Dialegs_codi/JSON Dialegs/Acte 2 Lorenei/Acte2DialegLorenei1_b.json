@@ -1,0 +1,135 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "L'home que ha mort aquesta nit, i que continua estant en aquell racó... vosté el coneixia d'algo?  ",
+            "textCastellano" :
+                "El hombre que ha muerto esta noche, y que continúa estando en esa esquina... ¿lo conocía de algo?  ",
+            "textEnglish" :
+                "The man that died tonight, and still remains in that corner... did you know him for anything?  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Sols el conec de vista.  ",
+            "textCastellano" :
+                "Sólo lo conozco de vista.  ",
+            "textEnglish" :
+                "I barely know him.  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Des de fa un parell de setmanes, les meues germanes i jo l'hem vist rondant prop del nostre temple.  ",
+            "textCastellano" :
+                "Desde hace un par de semanas, mis hermanas y yo lo hemos visto vagabundeando cerca de nuestro templo.  ",
+            "textEnglish" :
+                "A couple of weeks ago, my sisters and I have seen him bumming near our temple.  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Mai va entrar ni xarrar amb nosaltres, però es quedava mirant la fatxada del temple durant varios minuts, com si estiguera estudiant-la.  ",
+            "textCastellano" :
+                "Nunca entró ni habló con nosotras, pero se quedaba mirando la fachada del templo durante varios minutos, como si estuviera estudiándola.  ",
+            "textEnglish" :
+                "He never went in nor talked with us, but he would keep watching the temple's facade for some minutes, like he was studying it.  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "O millor dit, com qui mira l'oferta d'una tenda per a decidir què comprar.  ",
+            "textCastellano" :
+                "O mejor dicho, como quien mira la oferta de una tienda para decidir qué comprar.  ",
+            "textEnglish" :
+                "Or better said, like someone that stares at a shop offer to decide what to but.  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "I des del primer dia que el vaig vore, em va pareixer que era una persona perillosa.  ",
+            "textCastellano" :
+                "Y desde el primer día que lo vi, me pareció que era una persona peligrosa.  ",
+            "textEnglish" :
+                "And since the first day I saw him, I thought he was a dangerous person.  "
+        }
+        
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    }
+}

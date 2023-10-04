@@ -1,0 +1,73 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Coneixia vosté a l'home mort?  ",
+            "textCastellano" :
+                "¿Conocía usted al hombre muerto?  ",
+            "textEnglish" :
+                "Did you know the dead man?  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Sí, el coneixia. Fa una setmana, em va proposar que fera algo per ell, per la qual cosa em pagaria.  ",
+            "textCastellano" :
+                "Sí, lo conocía. Hace una semana, me propuso que hiciese algo por él, por la cual me pagaría.  ",
+            "textEnglish" :
+                "Yeah, I knew him. A week ago, he proposed me to do a thing for him in exchange for money.  "
+        }
+        
+        
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    }
+}

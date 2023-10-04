@@ -1,0 +1,93 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Es refereix vosté a una d'eixes faenes que m'ha explicat? La va contractar en aquest bar?  ",
+            "textCastellano" :
+                "¿Se refiere usted a uno de esos trabajos que me ha explicado? ¿La contrató en este bar?  ",
+            "textEnglish" :
+                "Are you talking about those jobs that you told me earlier? Did he hired you in this bar?  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Era una d'eixa faenes, però no va ser en aquest bar, sino en la cantina que està a mitat camí de la plaça.  ",
+            "textCastellano" :
+                "Era uno de esos trabajos, pero no fue en este bar, sino en la cantina que está a mitad de camino de la plaza.  ",
+            "textEnglish" :
+                "It was one of those jobs, but we didn't meet in this bar, but in the canteen that you find going towards the square.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "El local eixe que està tot ple de banderetes, per alguna raó.  ",
+            "textCastellano" :
+                "El local ese que está todo lleno de banderitas, por alguna razón.  ",
+            "textEnglish" :
+                "That place that is full of flags inside, for some reason.  "
+        }
+        
+        
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    }
+}

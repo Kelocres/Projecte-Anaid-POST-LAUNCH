@@ -1,0 +1,180 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "És vostra l'espasa amb la qual han matat a la víctima?  ",
+            "textCastellano" :
+                "¿Es suya la espada con la cual han matado a la víctima?  ",
+            "textEnglish" :
+                "Is it yours the blade which was used to kill the victim?  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Per què deuria tindre jo una espasa?  ",
+            "textCastellano" :
+                "¿Por qué debería tener yo una espada?  ",
+            "textEnglish" :
+                "Why should I have a blade?  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Si tan segura està vosté de que la guàrdia civil no la protegix, es de trellat armar-se vosté mateixa per a defensar-se.  ",
+            "textCastellano" :
+                "Si tan segura está usted de que la guardia civil no la protege, lo más sensato sería armarse usted misma para defenderse.  ",
+            "textEnglish" :
+                "If you are so sure that military police doesn't protect you, the most sensible thing would be arming yoursef for defending.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Això és veritat, sí. Però no necessite cap espasa.  ",
+            "textCastellano" :
+                "Eso es verdad, sí. Pero no necesito ninguna espada.  ",
+            "textEnglish" :
+                "That's true, yeah. But I don't need any sword.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Des de fa anys que entrene en les arts marcials dels semigats. Sóc àgil, ràpida i forta, i les meues arpes poden tallar com un gavinet. Si vull.  ",
+            "textCastellano" :
+                "Desde hace años que entreno en las artes marciales de los semigatos. Soy ágil, rápida y fuerte, y mis zarpas pueden cortar como un cuchillo Si quiero.  ",
+            "textEnglish" :
+                "For many years I've been training on the semicats' martial arts. I am agile, fast and strong, and my claws can cut like a knife. If I want to.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Podria combatre contra qualsevol oponent que estiga armat fins a les dents, i guanyar-li perfectament.  ",
+            "textCastellano" :
+                "Podría combatir contra cualquier oponente que esté armado hasta los dientes, y ganarle perfectamente.  ",
+            "textEnglish" :
+                "I can fight any other adversary who is armed to the teeth, and perfectly win.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Així que no, eixa espasa no és meua ni em fa falta.  ",
+            "textCastellano" :
+                "Así que no, esa espada no es mía ni me hace falta.  ",
+            "textEnglish" :
+                "So no, that blade isn't mine because I don't need it.  "
+        }
+        
+        
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "ANAÍD",
+        "idPersonatge": "Anaid",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "escoltar"
+            },
+            {
+                "idPersonatge" : "Anaid",
+                "anim" : "braçosCreuats_xarrar"
+            }
+        ],
+        "textValencia" :
+            "Hem acabat ja o no?  ",
+        "textCastellano" :
+            "¿Hemos acabado ya o no?  ",
+        "textEnglish" :
+            "Are we done or not?  "
+    }
+}

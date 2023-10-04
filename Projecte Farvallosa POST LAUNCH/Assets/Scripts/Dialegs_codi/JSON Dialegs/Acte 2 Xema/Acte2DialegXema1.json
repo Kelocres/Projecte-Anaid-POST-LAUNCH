@@ -1,0 +1,307 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "salutacio"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "preocupat"
+                }
+            ],
+            "textValencia" :
+                "Ie, Xem-",
+            "textCastellano" :
+                "Hey, Xem-",
+            "textEnglish" :
+                "Hey, Xem-"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "salutacio"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "nervios_xarrar"
+                }
+            ],
+            "textValencia" :
+                "ANEUATANCARMELOCAL!?!?",
+            "textCastellano" :
+                "¿¡¿¡VAISACERRARMELOCAL!?!?",
+            "textEnglish" :
+                "YOUREGONNACLOSETHEPLACE!?!?"
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "salutacio"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "nervios_callat"
+                }
+            ],
+            "textValencia" :
+                "Eh?",
+            "textCastellano" :
+                "¿Eh?",
+            "textEnglish" :
+                "Eh?"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "nervios_xarrar"
+                }
+            ],
+            "textValencia" :
+                "NO SOM CULPABLES D'AÇÒ! NO PODEU TANCAR EL LOCAL!! NO POT SER!! VERITAT?! O SÍ?!",
+            "textCastellano" :
+                "¡NO SOMOS CULPABLES DE ESTO! ¡¡NO PODEIS CERRAR EL LOCAL!! ¡NO PUEDE SER! ¡¿VERDAD?! ¡¿O SÍ?!",
+            "textEnglish" :
+                "WE ARE NOT GUILTY OF THIS! YOU CANNOT CLOSE THE BAR!! IT CAN'T HAPPEN!! CAN IT?! OR NOT?!"
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "nervios_callat"
+                }
+            ],
+            "textValencia" :
+                "Et rogue que et calmes Xema, que no-",
+            "textCastellano" :
+                "Te ruego que te calmes Xema, que no-",
+            "textEnglish" :
+                "I beg you to calm yourself Xema, because we-"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "dramatic_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Ja està! Ens tancareu el bar pel mort i jo tornaré al carrer!",
+            "textCastellano" :
+                "¡Ya está! ¡Vais a cerrarnos el bar por el muerto y yo volveré a la calle!",
+            "textEnglish" :
+                "That's it! You are going to close it and I'll be fired once again!"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "dramatic_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Que ja em va costar trobar esta faena, com per a buscar un treball nou amb un cadaver en el currículum! I no tinc clar si cobraré el finiqui-",
+            "textCastellano" :
+                "¡Que ya me costó encontrar este empleo, como para buscar un trabajo nuevo con un cadáver en el currículum! ¡Y no tengo claro si cobraré el finiqui-",
+            "textEnglish" :
+                "I already had it hard to find this job, and now I have to look for a new job with a corpse in the resum! And I am not sure if I'll get the severan-"
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "dramatic_callat"
+                }
+            ],
+            "textValencia" :
+                "SENYOR JOSE MARÍA COSTA PUIG!",
+            "textCastellano" :
+                "¡SEÑOR JOSE MARÍA COSTA PUIG!",
+            "textEnglish" :
+                "MISTER JOSE MARÍA COSTA PUIG!"
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "dramatic_callat"
+                }
+            ],
+            "textValencia" :
+                "Com a detectiu de la guardia civil, li demane que es calme per a que puga fer la meua feina!",
+            "textCastellano" :
+                "¡Como detective de la guardia civil, le pido que se calme para que pueda hacer mi trabajo!",
+            "textEnglish" :
+                "As a detective of military police, I demand you to calm down so I can do my job!"
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "dramatic_callat"
+                }
+            ],
+            "textValencia" :
+                "Si vol que aquesta situació acabe lo més prompte possible, li recomene que coopere i em conteste a les preguntes que necessite fer.",
+            "textCastellano" :
+                "Si quiere que esta situación acabe lo antes posible, le recomiendo que coopere y me conteste a las preguntas que necesito hacerle.",
+            "textEnglish" :
+                "If you want to end this situation as soon as possible, I recommend you to cooperate and answer me the questions I must ask."
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "dramatic_callat"
+                }
+            ],
+            "textValencia" :
+                "...",
+            "textCastellano" :
+                "...",
+            "textEnglish" :
+                "..."
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "salutacio"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "dramatic_callat"
+                }
+            ],
+            "textValencia" :
+                "I com a amics de tota la vida que som, realment et recomane que poses de la teua part per a resoldre aquest crimen.",
+            "textCastellano" :
+                "Y como amigos de toda la vida que somos, realmente te recomiendo que pongas de tu parte para resolver este crimen.",
+            "textEnglish" :
+                "And as friends we have ever been, I really recommend you to cooperate to solve this crime."
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Val, cooperaré.",
+            "textCastellano" :
+                "Vale, cooperaré.",
+            "textEnglish" :
+                "Allright, I'll cooperate."
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "desconfiat_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Però aneu a tancar el local o no?",
+            "textCastellano" :
+                "¿Pero vais a cerrar el local o no?",
+            "textEnglish" :
+                "But are you going to close the place or not?"
+        }
+
+
+    ],
+    "desicio":
+    {
+        "nom": "DETECTIU",
+        "idPersonatge": "AndreuDetectiu",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "xarrar"
+            },
+            {
+                "idPersonatge" : "ChemaCambrer",
+                "anim" : "desconfiat_callat"
+            }
+        ],
+        "textValencia" :
+            "Tu no et distraigues ara per això.",
+        "textCastellano" :
+            "Tu no te distraigas ahora por eso.",
+        "textEnglish" :
+            "Don't distract yourself with it."
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "I Lòrenei i les seues germanes han sigut víctimes de furt d'un dels seus tressors.  ",
+            "textCastellano" :
+                "Y Lórenei y sus hermanas han sido víctimas de hurto de uno de sus tesoros.  ",
+            "textEnglish" :
+                "And Lorenei and her sisters have been victims of theft of one of their treassures.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "La desconfiança que elles tenen en l'autoritat humana va servir al senyor Kieras per a que el crimen no es denunciara i pasara desapercebut.  ",
+            "textCastellano" :
+                "La desconfianza que ellas tienen en la autoridad humana le sirvió al señor Kieras para que el crimen no se denunciara y pasara desapercibido.  ",
+            "textEnglish" :
+                "Their mistrust of the human authority was cleverly used by mister Kieras to do the crime without denunciation nor getting attention.  "
+        }
+        
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    }
+}

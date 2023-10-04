@@ -1,0 +1,19 @@
+{
+    "nom":"Sereno",
+    "idPersonatge":"Sereno",
+    "anims":[
+        {
+            "idPersonatge":"Sereno",
+            "anim": "salutacio",
+            "canviaOrientacio" : -1
+        },
+        {
+            "idPersonatge":"AndreuDetectiu",
+            "anim": "escoltar",
+            "canviaOrientacio" : -1
+        }
+    ],
+    "textValencia":"Bona nit, senyor detectiu!",
+    "textCastellano":"¡Buenas noches, señor detective!",
+    "textEnglish":"Good night, mister detective!"
+}

@@ -1,0 +1,301 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "Anaíd, podria dir-  ",
+            "textCastellano" :
+                "Anaíd, podría deci-  ",
+            "textEnglish" :
+                "Anaid, could you sa-  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "JO NO HE SIGUT!!  ",
+            "textCastellano" :
+                "¡¡YO NO HE SIDO!!  ",
+            "textEnglish" :
+                "I DIDN'T DO IT!!  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "No soc una assassina, sols tracte de sobreviure en aquest poble! Igual que tots els semigats i semigates que estem ací!  ",
+            "textCastellano" :
+                "¡No soy una asesina, sólo trato de sobrevivir en este pueblo! ¡Igual que todos los semigatos y semigatas que estamos aquí!  ",
+            "textEnglish" :
+                "I am not a murderer, I just trying to survive in this town! Like any semicat living in here!  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Semigata Anaíd, li dema-  ",
+            "textCastellano" :
+                "Semigata Anaíd, le pid-  ",
+            "textEnglish" :
+                "Anaid, I deman-  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Vosaltres els humans només penseu que hem arribat ací per a furtar-vos, i no vos entra al cap que nosaltres no vam decidir vindre.  ",
+            "textCastellano" :
+                "Vosotros los humanos sólo pensáis que hemos llegado aquí para robaros, y no os entra en la cabeza que nosotros no decidimos venir.  ",
+            "textEnglish" :
+                "You humans onle think that we arrived here to steal from you, but you can't realise that we didn't decide to come here.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "NO SOM INVASORS!  ",
+            "textCastellano" :
+                "¡NO SOMOS INVASORES!  ",
+            "textEnglish" :
+                "WE ARE NOT INVADERS!  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Però insistiu en acussar-nos de crimens que no hem fet, per arrestar-nos i tancar-nos com si forem animals...  ",
+            "textCastellano" :
+                "Pero insistís en acusarnos de crimenes que no hemos hecho, para arrestarnos y encerrarnos como si fuésemos animales...  ",
+            "textEnglish" :
+                "But you insist in accusing us of crimes we didn't do, to arrest us and lock us like we were animals...  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "SEMIGATA ANAÍD! FAÇA EL FAVOR DE COOPERAR, O DE NO OBSTACULITZAR LA INVESTIGACIÓ!!  ",
+            "textCastellano" :
+                "¡SEMIGATA ANAÍD! ¡¡HAGA EL FAVOR DE COOPERAR, O DE NO OBSTACULIZAR LA INVESTIGACIÓN!!  ",
+            "textEnglish" :
+                "ANAÍD! PLEASE COOPERATE, OR NOT OBSTRUCT THE INVESTIGATION!!  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Conteste a les meues preguntes, o estiga en silenci!  ",
+            "textCastellano" :
+                "¡Consteste a mis pregunas, o quédese en silencio!  ",
+            "textEnglish" :
+                "Answer my questions, or be quiet!  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "I li recorde que la llei del poble protegix a tots: humans, semigats, èssers feèrics i lo que vinga en el futur.  ",
+            "textCastellano" :
+                "Y le recuerdo que la ley del pueblo protege a todos: humanos, semigatos, seres feéricos y lo que venga en el futuro.  ",
+            "textEnglish" :
+                "And I insist that the town's law protects all of us: humans, semicats, fairies and whataever it comes next.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "No està feta per a discriminar a cap individu o col·lectiu.  ",
+            "textCastellano" :
+                "No está hecha para discriminar a ningún individuo o colectivo.  ",
+            "textEnglish" :
+                "It is not made to discriminate any person or colective.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "saludar_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Ja clar! Ni sols siquiera els humans respeten les lleis que vosaltres mateixos heu creat.  ",
+            "textCastellano" :
+                "¡Ya claro! Ni siquiera los humanos respetan las leyes que vosotros mismos habeis creado.  ",
+            "textEnglish" :
+                "Oh please! Not even humans respect the laws that yourself created.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "saludar_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Ni creuen tota el xarlatanisme de que la llei i la justícia són iguals per a tots.  ",
+            "textCastellano" :
+                "Ni creen toda la charlatanería de que la ley y la justicia son iguales para todos.  ",
+            "textEnglish" :
+                "They neither believe all that verbiage about law and justice being equal for all of us.  "
+        }
+
+
+    ],
+    "desicio":
+    {
+        "nom": "ANAÍD",
+        "idPersonatge": "Anaid",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "escoltar"
+            },
+            {
+                "idPersonatge" : "Anaid",
+                "anim" : "enfadada_callar"
+            }
+        ],
+        "textValencia" :
+            "Faça vosté les seues preguntes i acabem açò rapidet.  ",
+        "textCastellano" :
+            "Haga usted sus preguntas y acabemos esto rapidito.  ",
+        "textEnglish" :
+            "Ask your questions and end this soon.  "
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    }
+}

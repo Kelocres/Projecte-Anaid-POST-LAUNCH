@@ -1,0 +1,278 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Per què no ho va denunciar a la Guàrdia Civil?  ",
+            "textCastellano" :
+                "¿Por qué no lo denunció a la Guardia Civil?  ",
+            "textEnglish" :
+                "Why didn't you report to the Guards?  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Perque les autoritats humanes no es preocupen ni per les fades ni pels semigats.  ",
+            "textCastellano" :
+                "Porque las autoridades humanas no se preocupan ni por las hadas ni por los semigatos.  ",
+            "textEnglish" :
+                "Because human authorities don't care for fairies nor semicats.  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Sobretot si el crimen beneficia als humans.  ",
+            "textCastellano" :
+                "Sobretodo si el crimen beneficia a los humanos.  ",
+            "textEnglish" :
+                "Mostly if the crime benefits humans.  "
+        },
+        
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Greus paraules està dient vosté, Lòrenei!  ",
+            "textCastellano" :
+                "¡Graves palabras está diciendo usted, Lórenei!  ",
+            "textEnglish" :
+                "Grave words I'm hearing from you, Lorenei!  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Li recorde que les lleis i autoritats humanes velen per la seguritat de tots, siguem humans o no.  ",
+            "textCastellano" :
+                "Le recuerdo que las leyes y autoridades humanas velan por la seguridad de todos, seamos humanos o no.  ",
+            "textEnglish" :
+                "I shall remember you that human laws and authorities ensure justice for all of us, either we are human or not.  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "No em trate per estúpida, senyor detectiu.  ",
+            "textCastellano" :
+                "No me trate por estúpida, señor detective.  ",
+            "textEnglish" :
+                "Don't treat me as a fool, mister detective.  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "O de veritat creuen vostés que les reliquies feèriques que hi han als pobles humans, tant les escultures dels carrers com els edificis antics,  ",
+            "textCastellano" :
+                "¿O de verdad creen ustedes que las reliquias feéricas que hay en los pueblos humanos, tanto las esculturas de las calles como los edificios antiguos,  ",
+            "textEnglish" :
+                "Or do you really believe that fairy relics that are in human towns, street sculptes as much as ancient buildings,  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "són regals que donaren les fades pel seu amor als humans?  ",
+            "textCastellano" :
+                "son regalos que dieron las hadas por su amor a los humanos?  ",
+            "textEnglish" :
+                "are gifts that the fairies gave because they loved humans?  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Van ser expropiacions dels vostres avantpassats als nostres!  ",
+            "textCastellano" :
+                "¡Fueron exprociaciones de vuestros antepasados a los nuestros!  ",
+            "textEnglish" :
+                "They were expropiated by your ancestors from ours!  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Fruits del saqueix criminal, que vos negueu a retornar-nos perque 'és patrimoni antic del poble'!  ",
+            "textCastellano" :
+                "¡Frutos del saqueo criminal, que os negais a devolvernos porque 'es patrimonio antiguo del pueblo'!  ",
+            "textEnglish" :
+                "Loot from vile pillage, that you refuse to give us back because 'it is town's old heritage'!  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "O que si 'no es deuen reobrir les ferides del passat'!  ",
+            "textCastellano" :
+                "O que si 'no se deben reabrir las heridas del pasado'!  ",
+            "textEnglish" :
+                "Or either 'we must not to reopen wounds from the past'!  "
+        },
+        
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Obviament, els nostres problemes només els podrem resoldre nosaltres.  ",
+            "textCastellano" :
+                "Obviamente, nuestros problemas sólo los podremos resolver nosotras.  ",
+            "textEnglish" :
+                "Obviously, our problems can only be solved by us.  "
+        }
+        
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Alguna cosa més que vol saber?  ",
+            "textCastellano" :
+                "¿Alguna cosa más que quiera saber?  ",
+            "textEnglish" :
+                "Is there anything else you want to know?  "
+    }
+}

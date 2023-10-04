@@ -1,0 +1,126 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_xarrar"
+                }
+            ],
+            "textValencia" :
+                "No en persona, però ha sigut...",
+            "textCastellano" :
+                "No en persona, pero ha sido...",
+            "textEnglish" :
+                "Not really, but he has been..."
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "indiferent_xarrar"
+                }
+            ],
+            "textValencia" :
+                "... un client habitual, des de fa unes poques setmanes.",
+            "textCastellano" :
+                "... un cliente habitual, desde hace unas pocas semanas.",
+            "textEnglish" :
+                "... a frequent client, since a few weeks ago."
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "indiferent_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Moltes vegades reservava una taula per a dues o tres persones, però freqüentment es quedava ell sol bebent.",
+            "textCastellano" :
+                "Muchas veces reservaba una mesa para dos o tres personas, pero frecuentemente se quedaba él solo bebiendo.",
+            "textEnglish" :
+                "Sometimes he reserved a table for two or three people, but he usually was drinking alone."
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "indiferent_callat"
+                }
+            ],
+            "textValencia" :
+                "Vos va donar alguna volta el seu nom per a reservar?",
+            "textCastellano" :
+                "¿Os dió alguna vez su nombre para las reservas?",
+            "textEnglish" :
+                "Did he give you his name for the reservations?"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Sí. Es deia Maiquel Kieras.",
+            "textCastellano" :
+                "Sí. Se llamaba Maiquel Kieras.",
+            "textEnglish" :
+                "Yes. His name was Michael Kieras."
+        }
+
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            {
+                "idPersonatge" : "",
+                "anim" : ""
+            },
+            {
+                "idPersonatge" : "",
+                "anim" : ""
+            }
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "I de fet, sospitava que aquell home fora el lladre.  ",
+            "textCastellano" :
+                "Y de hecho, sospechaba que aquel hombre fuera el ladrón.  ",
+            "textEnglish" :
+                "In fact, I suspected that man was the thief.  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Però ara que està mort, trobrar-la serà molt més complicat.  ",
+            "textCastellano" :
+                "Pero ahora que está muerto, encontrarla será mucho más complicado.  ",
+            "textEnglish" :
+                "But now that he is dead, finding it will be much harder.  "
+    }
+        
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    }
+}

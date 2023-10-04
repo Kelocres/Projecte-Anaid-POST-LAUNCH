@@ -1,0 +1,148 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                }
+            ],
+            "textValencia" :
+                "Bebia a soles? En una taula apartada de la barra?",
+            "textCastellano" :
+                "¿Bebía solo? ¿En una mesa lejos de la barra?",
+            "textEnglish" :
+                "Was he drinking alone? In a table far apart from the bar?"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Sí, no és la primera vegada que ho fa.",
+            "textCastellano" :
+                "Sí, no es la primera vez que lo hace.",
+            "textEnglish" :
+                "Yeah, that was not the first time he did it."
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "indiferent_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Va demanar una taula per a dos persones, però estigué ell soles una bona estona.",
+            "textCastellano" :
+                "Pidió una mesa para dos personas, pero se pasó un buen rato sin que llegara nadie más.",
+            "textEnglish" :
+                "He ordered a table for two people, but he stayed there alone for a long time."
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "indiferent_callat"
+                }
+            ],
+            "textValencia" :
+                "Era un client habitual?",
+            "textCastellano" :
+                "¿Era un cliente habitual?",
+            "textEnglish" :
+                "Was he a frequent client?"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Des de fa unes poques setmanes, sí. Ell feia les reserves a nom de Maiquel Kieras.",
+            "textCastellano" :
+                "Desde hace unas pocas semanas, sí. Él hacía las reservas a nombre de Maiquel Kieras.",
+            "textEnglish" :
+                "Since a few weeks ago, yeah. He did the reservations on behalf of Michael Kieras."
+        }
+
+
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            {
+                "idPersonatge" : "",
+                "anim" : ""
+            },
+            {
+                "idPersonatge" : "",
+                "anim" : ""
+            }
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "DETECTIU",
+        "idPersonatge": "AndreuDetectiu",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "reflexionar"
+            },
+            {
+                "idPersonatge" : "ChemaCambrer",
+                "anim" : "generic_callat"
+            }
+        ],
+        "textValencia" :
+            "Així que es deia Maiquel Kieras...",
+        "textCastellano" :
+            "Así que se llamaba Maiquel Kieras...",
+        "textEnglish" :
+            "So his name was Michael Kieras..."
+    }
+}

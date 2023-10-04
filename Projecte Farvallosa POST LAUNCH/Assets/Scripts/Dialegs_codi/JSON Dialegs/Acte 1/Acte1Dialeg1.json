@@ -1,0 +1,187 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "SERENO",
+            "idPersonatge": "Sereno",
+            "anims": [
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "salutacio"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Bona nit, senyor detectiu! ",
+            "textCastellano" :
+                "¡Buenas noches, señor detective! ",
+            "textEnglish" :
+                "Good night, mister detective! "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "salutacio"
+                }
+            ],
+            "textValencia" :
+                "Hola. ",
+            "textCastellano" :
+                "Hola. ",
+            "textEnglish" :
+                "Hi. "
+        },{
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "salutacio"
+                }
+            ],
+            "textValencia" :
+                "Han pogut reconeixer al pobre home? ",
+            "textCastellano" :
+                "¿Han podido reconocer al pobre hombre? ",
+            "textEnglish" :
+                "Could you recognise the poor man? "
+        },{
+            "nom": "SERENO",
+            "idPersonatge": "Sereno",
+            "anims": [
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "A dures penes, senyor. ",
+            "textCastellano" :
+                "A duras penas, señor. ",
+            "textEnglish" :
+                "Not really, sir. "
+        },{
+            "nom": "SERENO",
+            "idPersonatge": "Sereno",
+            "anims": [
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "No és del poble, i no porta cap document que facilite la seua identitat. ",
+            "textCastellano" :
+                "No es del pueblo, y no lleva ningún documento que facilite su identidad. ",
+            "textEnglish" :
+                "He's not from here, and he doesn't carry any document that facilitate his identity. "
+        },{
+            "nom": "SERENO",
+            "idPersonatge": "Sereno",
+            "anims": [
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Altres serenos i guàrdies l'havien vist últimament pels carrers, però cap hotel ha rebut clients aquest mes. ",
+            "textCastellano" :
+                "Otros serenos y guardias lo habían visto últimamente por las calles, pero ningún hotel ha recibido clientes este mes. ",
+            "textEnglish" :
+                "Other guards had seen him lately through the streets, but no hotel received clients this month. "
+        },{
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                }
+            ],
+            "textValencia" :
+                "De veres? Tinc entés que alguns semigats han pogut hospedar-se. ",
+            "textCastellano" :
+                "¿De verdad? Tengo entendido que algunos semigatos han conseguido hospedarse. ",
+            "textEnglish" :
+                "Really? I've heard that some semicats have lodged. "
+        },{
+            "nom": "SERENO",
+            "idPersonatge": "Sereno",
+            "anims": [
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Cap client humà, vull dir. ",
+            "textCastellano" :
+                "Ningún cliente humano, quiero decir. ",
+            "textEnglish" :
+                "No human clients, I mean. "
+        },{
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "mirarVoltant"
+                }
+            ],
+            "textValencia" :
+                "I les persones d'ací són les sospitoses? ",
+            "textCastellano" :
+                "¿Y las personas de aquí son las sospechosas? ",
+            "textEnglish" :
+                "And all people here are the suspects? "
+        }
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    }
+}

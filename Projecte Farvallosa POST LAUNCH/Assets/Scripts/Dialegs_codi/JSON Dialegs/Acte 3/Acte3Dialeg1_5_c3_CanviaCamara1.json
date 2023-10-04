@@ -1,0 +1,33 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "La vertadera identitat de Maiquel Kieras...  ",
+            "textCastellano" :
+                "La verdadera identidad de Maiquel Kieras...  ",
+            "textEnglish" :
+                "The true identity of Michael Kieras...  "
+        }
+    ]
+    
+}

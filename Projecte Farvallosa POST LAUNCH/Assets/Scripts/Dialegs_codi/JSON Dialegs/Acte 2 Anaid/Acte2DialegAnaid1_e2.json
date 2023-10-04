@@ -1,0 +1,213 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Lo que tenia que fer era colar-me en l'esglèsia tancada i realitzar fotografies als textos de les escultures.  ",
+            "textCastellano" :
+                "Lo que tenía que hacer era colarme en la iglesia cerrada y realizar fotografías a los textos de las esculturas.  ",
+            "textEnglish" :
+                "What I had to do was sneaking in the closed church and taking photos of the sculptures' textes.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "I ho va fer?  ",
+            "textCastellano" :
+                "¿Y lo hizo?  ",
+            "textEnglish" :
+                "And did you do it?  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Sí.  ",
+            "textCastellano" :
+                "Sí.  ",
+            "textEnglish" :
+                "Yes.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "A mí em paregué extrany que l'home em pagara per unes fotos d'uns textos antics que no tenien res d'especial.  ",
+            "textCastellano" :
+                "A mí me pareció extraño que el hombre me pagase por unas fotos de unos textos antiguos que no tenían nada de especial.  ",
+            "textEnglish" :
+                "For me, it was strange that he would pay me for some photos of old texts that had nothing special.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Però jo necessitava els diners i ell em va pagar bé, així que no em queixe.  ",
+            "textCastellano" :
+                "Pero yo necesitaba el dinero y él me pagó bien, así que no me quejo.  ",
+            "textEnglish" :
+                "But I needed the money and he paid me well, so I have no complains.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "És vosté conscient de que va cometre un crimen?  ",
+            "textCastellano" :
+                "¿Es usted consciente de que cometió un crimen?  ",
+            "textEnglish" :
+                "Are you aware that you commited a crime?  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "No soc estúpida! Sé lo que és una violació de local. Però no soc una lladre!  ",
+            "textCastellano" :
+                "¡No soy estúpida! Sé lo que es un allanamiento de local. ¡Pero no soy una ladrona!  ",
+            "textEnglish" :
+                "I am not stupid! I know what a forced entry is. But I am not a theft!  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Sols vaig fer fotografies de coses que s'exhibien públicament quan l'esglèsia estava oberta. No em vaig emportar res.  ",
+            "textCastellano" :
+                "Sólo hice fotografías de cosas que se exhibían públicamente cuando la iglesia estaba abierta. No me llevé nada.  ",
+            "textEnglish" :
+                "I only took photographs of things that were publicly displayed when the church was open. I stole nothing.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "I com he dit: necessitava els diners.  ",
+            "textCastellano" :
+                "Y como he dicho: necesitaba el dinero.  ",
+            "textEnglish" :
+                "And as I said: I needed the money.  "
+        }
+        
+        
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    }
+}

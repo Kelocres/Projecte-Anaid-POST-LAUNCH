@@ -1,0 +1,92 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "SERENO",
+            "idPersonatge": "Sereno",
+            "anims": [
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Exactament. Jo mateixa passava per davant l'edifici, fent la meua ronda, quan de repent es van apagar les llums del local i es sentiren uns crits. ",
+            "textCastellano" :
+                "Exactamente. Yo mismo pasaba por delante del edificio, haciendo mi ronda, cuando de repente se apagaron las luces del local y se oyeron unos gritos. ",
+            "textEnglish" :
+                "Exactly. I was walking in front of the building, going on my round, when the venue's lights suddenly turned off and someone screamed. "
+        },
+        {
+            "nom": "SERENO",
+            "idPersonatge": "Sereno",
+            "anims": [
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Vaig a entrar a comprobar què pasava, i vaig descubrir el cadàver. I aquestes eren les úniques persones que estaven en el bar. ",
+            "textCastellano" :
+                "Entré a comprobar que estaba pasando, y descubrí el cadáver. Y estas personas fueron las únicas que estaban en el bar. ",
+            "textEnglish" :
+                "I went in to see what was happening, and I found the corpse. And these people were the ones who lied in the bar. "
+        },{
+            "nom": "SERENO",
+            "idPersonatge": "Sereno",
+            "anims": [
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Des d'aquell moment, jo i els meus companys de fora els hem retingut ací mentre l'esperavem a vosté. ",
+            "textCastellano" :
+                "Desde aquel momento, yo y mis compañeros de fuera los hemos retenido aquí mienstras le esperábamos a usted. ",
+            "textEnglish" :
+                "Since that moment, me and my workmates out there retianed them here while you were coming. "
+        },{
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "D'acord, pot vosté esperar fora. Jo m'encarregue de la situació. ",
+            "textCastellano" :
+                "De acuerdo, puede usted esperar fuera. Yo me encargo de la situación. ",
+            "textEnglish" :
+                "All right, you can wait outside. I'll take care of the situation. "
+        }
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    }
+}

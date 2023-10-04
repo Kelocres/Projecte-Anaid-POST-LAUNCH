@@ -1,0 +1,61 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "Anaíd la semigata, en estat de necessitat, va ser involucrada en activitats criminals a canvi de diners.  ",
+            "textCastellano" :
+                "Anaíd la semigata, en estado de necesidad, fue involucrada en actividades criminales a cambio de dinero.  ",
+            "textEnglish" :
+                "Anaid the semicat, in a state of need, was involved in criminal activities in exchange of money.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "L'obtenció clandestina d'informació en l'esglèsia podria ser només la punta del iceberg dels delits que ella ha comés.  ",
+            "textCastellano" :
+                "La obtención clandestina de información en la iglesia podría ser sólo la punta del iceberg de los delitos que ella ha cometido.  ",
+            "textEnglish" :
+                "The clandestine obtainment of information in the church could be only the tip of the iceberg of all crimes she commited.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "...  ",
+            "textCastellano" :
+                "...  ",
+            "textEnglish" :
+                "...  "
+        }
+        
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    }
+}

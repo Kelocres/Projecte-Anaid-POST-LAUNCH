@@ -1,0 +1,47 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                }
+            ],
+            "textValencia" :
+                "Coneixies a la víctima?",
+            "textCastellano" :
+                "¿Conocías a la víctima?",
+            "textEnglish" :
+                "Did you know the victim?"
+        }
+
+
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            {
+                "idPersonatge" : "",
+                "anim" : ""
+            },
+            {
+                "idPersonatge" : "",
+                "anim" : ""
+            }
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    }
+}

@@ -1,0 +1,1611 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5054820
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5054821}
+  - component: {fileID: 5054822}
+  m_Layer: 7
+  m_Name: Dialeg1ePOSTd
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5054821
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5054820}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 660733828}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5054822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5054820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a488802e980e1cd4ebc23370ab1849bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataDialegJSON: {fileID: 4900000, guid: 5209a72b1375f4b4985061c8d68625f4, type: 3}
+  liniesDialeg: []
+  decisioEsCadenat: 0
+  desicio: {fileID: 0}
+  eventActivable: 0
+  activador: {fileID: 0}
+  clausDespresDialeg: []
+  nextDialeg: {fileID: 1853779087}
+  nextCadenat: {fileID: 0}
+  cinematica: {fileID: 0}
+  despresDialeg: 2
+  liniaRetornarDecisio:
+    nom: 
+    idPersonatge: 
+    anims: []
+    textValencia: 
+    textCastellano: 
+    textEnglish: 
+--- !u!1 &152838265
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 152838266}
+  - component: {fileID: 152838267}
+  m_Layer: 7
+  m_Name: Dialeg1e2Retornar
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &152838266
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 152838265}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1853779085}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &152838267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 152838265}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a488802e980e1cd4ebc23370ab1849bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataDialegJSON: {fileID: 4900000, guid: 3b6b87402285d394098d33c180139194, type: 3}
+  liniesDialeg: []
+  decisioEsCadenat: 1
+  desicio: {fileID: 719913819}
+  eventActivable: 0
+  activador: {fileID: 0}
+  clausDespresDialeg: []
+  nextDialeg: {fileID: 0}
+  nextCadenat: {fileID: 0}
+  cinematica: {fileID: 0}
+  despresDialeg: 6
+  liniaRetornarDecisio:
+    nom: 
+    idPersonatge: 
+    anims: []
+    textValencia: 
+    textCastellano: 
+    textEnglish: 
+--- !u!1 &358800651
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 358800652}
+  - component: {fileID: 358800654}
+  - component: {fileID: 358800653}
+  m_Layer: 7
+  m_Name: Dialeg1d_a
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &358800652
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 358800651}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 810653465}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &358800654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 358800651}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f5bcb06d7fd60844b9b7a029ad51905, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textValencia: "Massa informaci\xF3"
+  textCastellano: "Demasiada informaci\xF3n"
+  textEnglish: Too much information
+  selectText: 
+  boto: {fileID: 0}
+  spr_original: {fileID: 0}
+  spr_baixCursor: {fileID: 0}
+  spr_pulsat: {fileID: 0}
+  textJSON: {fileID: 0}
+  dialeg: {fileID: 358800653}
+--- !u!114 &358800653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 358800651}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a488802e980e1cd4ebc23370ab1849bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataDialegJSON: {fileID: 4900000, guid: 405ab2be39244a14598d969e82a84101, type: 3}
+  liniesDialeg: []
+  decisioEsCadenat: 0
+  desicio: {fileID: 0}
+  eventActivable: 0
+  activador: {fileID: 0}
+  clausDespresDialeg: []
+  nextDialeg: {fileID: 818816151}
+  nextCadenat: {fileID: 0}
+  cinematica: {fileID: 0}
+  despresDialeg: 2
+  liniaRetornarDecisio:
+    nom: 
+    idPersonatge: 
+    anims: []
+    textValencia: 
+    textCastellano: 
+    textEnglish: 
+--- !u!1 &602277396
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 602277397}
+  - component: {fileID: 602277398}
+  m_Layer: 7
+  m_Name: Cadenat Anaid
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &602277397
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 602277396}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1297287180}
+  - {fileID: 762673873}
+  m_Father: {fileID: 4288843148200029996}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &602277398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 602277396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3229c00b3ade5774cb653d0ccf2515b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialegsBloquetjats:
+  - claus_condicions:
+    - clau: Acte2DialegAnaid1
+      obrir: 0
+    dialeg: {fileID: 1297287187}
+  dialegEixida: {fileID: 762673874}
+--- !u!1 &660733827
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 660733828}
+  - component: {fileID: 660733831}
+  - component: {fileID: 660733830}
+  - component: {fileID: 660733829}
+  m_Layer: 7
+  m_Name: Dialeg1e
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &660733828
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 660733827}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5054821}
+  - {fileID: 1853779085}
+  m_Father: {fileID: 719913817}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &660733831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 660733827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f5bcb06d7fd60844b9b7a029ad51905, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textValencia: "Qu\xE8 feia en el local?"
+  textCastellano: "\xBFQu\xE9 hac\xEDa en el local?"
+  textEnglish: Why were she in the place?
+  selectText: 
+  boto: {fileID: 0}
+  spr_original: {fileID: 0}
+  spr_baixCursor: {fileID: 0}
+  spr_pulsat: {fileID: 0}
+  textJSON: {fileID: 0}
+  dialeg: {fileID: 660733830}
+--- !u!114 &660733830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 660733827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a488802e980e1cd4ebc23370ab1849bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataDialegJSON: {fileID: 4900000, guid: bce237efcfec076408044d834058c2a0, type: 3}
+  liniesDialeg: []
+  decisioEsCadenat: 0
+  desicio: {fileID: 0}
+  eventActivable: 0
+  activador: {fileID: 0}
+  clausDespresDialeg:
+  - Acte2DialegAnaid1e
+  nextDialeg: {fileID: 0}
+  nextCadenat: {fileID: 660733829}
+  cinematica: {fileID: 0}
+  despresDialeg: 5
+  liniaRetornarDecisio:
+    nom: 
+    idPersonatge: 
+    anims: []
+    textValencia: 
+    textCastellano: 
+    textEnglish: 
+--- !u!114 &660733829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 660733827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3229c00b3ade5774cb653d0ccf2515b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialegsBloquetjats:
+  - claus_condicions:
+    - clau: Acte2DialegAnaid1d
+      obrir: 1
+    dialeg: {fileID: 5054822}
+  dialegEixida: {fileID: 1853779087}
+--- !u!1 &719913816
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 719913817}
+  - component: {fileID: 719913818}
+  - component: {fileID: 719913819}
+  - component: {fileID: 719913821}
+  - component: {fileID: 719913820}
+  m_Layer: 7
+  m_Name: Dialeg1abc
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &719913817
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 719913816}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 810653465}
+  - {fileID: 660733828}
+  - {fileID: 1031963779}
+  m_Father: {fileID: 1297287180}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &719913818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 719913816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a488802e980e1cd4ebc23370ab1849bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataDialegJSON: {fileID: 4900000, guid: 1435a996b2dcb614b84efd3f646d02b5, type: 3}
+  liniesDialeg: []
+  decisioEsCadenat: 1
+  desicio: {fileID: 719913819}
+  eventActivable: 0
+  activador: {fileID: 0}
+  clausDespresDialeg: []
+  nextDialeg: {fileID: 0}
+  nextCadenat: {fileID: 0}
+  cinematica: {fileID: 0}
+  despresDialeg: 1
+  liniaRetornarDecisio:
+    nom: 
+    idPersonatge: 
+    anims: []
+    textValencia: 
+    textCastellano: 
+    textEnglish: 
+--- !u!114 &719913819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 719913816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2da86a78ce3b447438b822266f99c464, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nom: "ANA\xCDD"
+  idPersonatge: Anaid
+  anims:
+  - {fileID: 719913821}
+  - {fileID: 719913820}
+  textValencia: "Fa\xE7a vost\xE9 les seues preguntes i acabem a\xE7\xF2 rapidet."
+  textCastellano: Haga usted sus preguntas y acabemos esto rapidito.
+  textEnglish: Ask your questions and end this soon.
+  opcions: []
+  opcionsBloquetjades:
+  - claus_condicions:
+    - clau: Acte2DialegAnaid1d
+      obrir: 0
+    opcio: {fileID: 810653470}
+  - claus_condicions:
+    - clau: Acte2DialegAnaid1e
+      obrir: 0
+    opcio: {fileID: 660733831}
+  - claus_condicions:
+    - clau: Acte2DialegAnaid1f
+      obrir: 0
+    opcio: {fileID: 1031963781}
+  opcionsEixida: []
+  dialegEixida: {fileID: 0}
+--- !u!114 &719913821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 719913816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e598286d8f2ddb3498c3263720ee2bac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idPersonatge: AndreuDetective
+  anim: escoltar
+  canviOrientacio: 0
+--- !u!114 &719913820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 719913816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e598286d8f2ddb3498c3263720ee2bac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idPersonatge: Anaid
+  anim: enfadada
+  canviOrientacio: 0
+--- !u!1 &762673872
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 762673873}
+  - component: {fileID: 762673874}
+  m_Layer: 7
+  m_Name: PostDialeg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &762673873
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 762673872}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 602277397}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &762673874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 762673872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a488802e980e1cd4ebc23370ab1849bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataDialegJSON: {fileID: 4900000, guid: 9f32c409d6d5a2343826c51b2b3dd53c, type: 3}
+  liniesDialeg: []
+  decisioEsCadenat: 0
+  desicio: {fileID: 0}
+  eventActivable: 0
+  activador: {fileID: 0}
+  clausDespresDialeg: []
+  nextDialeg: {fileID: 0}
+  nextCadenat: {fileID: 0}
+  cinematica: {fileID: 0}
+  despresDialeg: 0
+  liniaRetornarDecisio:
+    nom: 
+    idPersonatge: 
+    anims: []
+    textValencia: 
+    textCastellano: 
+    textEnglish: 
+--- !u!1 &810653464
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 810653465}
+  - component: {fileID: 810653470}
+  - component: {fileID: 810653469}
+  - component: {fileID: 810653468}
+  - component: {fileID: 810653467}
+  - component: {fileID: 810653466}
+  m_Layer: 7
+  m_Name: Dialeg1d
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &810653465
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 810653464}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 358800652}
+  - {fileID: 818816150}
+  m_Father: {fileID: 719913817}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &810653470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 810653464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f5bcb06d7fd60844b9b7a029ad51905, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textValencia: "Qu\xE8 feia en el local?"
+  textCastellano: "\xBFQu\xE9 hac\xEDa en el local?"
+  textEnglish: Why were she in the place?
+  selectText: 
+  boto: {fileID: 0}
+  spr_original: {fileID: 0}
+  spr_baixCursor: {fileID: 0}
+  spr_pulsat: {fileID: 0}
+  textJSON: {fileID: 0}
+  dialeg: {fileID: 810653469}
+--- !u!114 &810653469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 810653464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a488802e980e1cd4ebc23370ab1849bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataDialegJSON: {fileID: 4900000, guid: c7c8afc43c9e3004b9c16e5751a7bdf1, type: 3}
+  liniesDialeg: []
+  decisioEsCadenat: 1
+  desicio: {fileID: 810653468}
+  eventActivable: 0
+  activador: {fileID: 0}
+  clausDespresDialeg:
+  - Acte2DialegAnaid1d
+  nextDialeg: {fileID: 0}
+  nextCadenat: {fileID: 0}
+  cinematica: {fileID: 0}
+  despresDialeg: 1
+  liniaRetornarDecisio:
+    nom: 
+    idPersonatge: 
+    anims: []
+    textValencia: 
+    textCastellano: 
+    textEnglish: 
+--- !u!114 &810653468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 810653464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2da86a78ce3b447438b822266f99c464, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nom: "ANA\xCDD"
+  idPersonatge: Anaid
+  anims:
+  - {fileID: 810653467}
+  - {fileID: 810653466}
+  textValencia: "Solen ser tasques d'un dia o dos a canvi d'uns poquets diners, per\xF2
+    \xE9s algo."
+  textCastellano: "Suelen ser tareas de un d\xEDa o dos a cambio de poco dinero,
+    pero es algo."
+  textEnglish: Those often are one or two days' tasks in exchange of little money,
+    but it's something.
+  opcions: []
+  opcionsBloquetjades: []
+  opcionsEixida:
+  - {fileID: 358800654}
+  - {fileID: 818816152}
+  dialegEixida: {fileID: 0}
+--- !u!114 &810653467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 810653464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e598286d8f2ddb3498c3263720ee2bac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idPersonatge: AndreuDetectiu
+  anim: reflexionar
+  canviOrientacio: 0
+--- !u!114 &810653466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 810653464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e598286d8f2ddb3498c3263720ee2bac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idPersonatge: Anaid
+  anim: "bra\xE7osCreuats"
+  canviOrientacio: 0
+--- !u!1 &818816149
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 818816150}
+  - component: {fileID: 818816152}
+  - component: {fileID: 818816151}
+  m_Layer: 7
+  m_Name: Dialeg1d_b
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &818816150
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 818816149}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 810653465}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &818816152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 818816149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f5bcb06d7fd60844b9b7a029ad51905, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textValencia: "No veig ofertes ac\xED"
+  textCastellano: "No veo ofertas aqu\xED"
+  textEnglish: I don't see any offers here
+  selectText: 
+  boto: {fileID: 0}
+  spr_original: {fileID: 0}
+  spr_baixCursor: {fileID: 0}
+  spr_pulsat: {fileID: 0}
+  textJSON: {fileID: 0}
+  dialeg: {fileID: 818816151}
+--- !u!114 &818816151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 818816149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a488802e980e1cd4ebc23370ab1849bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataDialegJSON: {fileID: 4900000, guid: 58b2f1a7f648e664983a0f52900c7632, type: 3}
+  liniesDialeg: []
+  decisioEsCadenat: 1
+  desicio: {fileID: 719913819}
+  eventActivable: 0
+  activador: {fileID: 0}
+  clausDespresDialeg: []
+  nextDialeg: {fileID: 0}
+  nextCadenat: {fileID: 0}
+  cinematica: {fileID: 0}
+  despresDialeg: 6
+  liniaRetornarDecisio:
+    nom: 
+    idPersonatge: 
+    anims: []
+    textValencia: 
+    textCastellano: 
+    textEnglish: 
+--- !u!1 &1031963778
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1031963779}
+  - component: {fileID: 1031963781}
+  - component: {fileID: 1031963780}
+  m_Layer: 7
+  m_Name: Dialeg1f
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1031963779
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1031963778}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 719913817}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1031963781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1031963778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f5bcb06d7fd60844b9b7a029ad51905, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textValencia: "L'espasa \xE9s seua?"
+  textCastellano: "\xBFLa espada es suya?"
+  textEnglish: Is the sword yours?
+  selectText: 
+  boto: {fileID: 0}
+  spr_original: {fileID: 0}
+  spr_baixCursor: {fileID: 0}
+  spr_pulsat: {fileID: 0}
+  textJSON: {fileID: 0}
+  dialeg: {fileID: 1031963780}
+--- !u!114 &1031963780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1031963778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a488802e980e1cd4ebc23370ab1849bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataDialegJSON: {fileID: 4900000, guid: 04660eb08b524f84aa761b155b0e42f9, type: 3}
+  liniesDialeg: []
+  decisioEsCadenat: 1
+  desicio: {fileID: 719913819}
+  eventActivable: 0
+  activador: {fileID: 0}
+  clausDespresDialeg:
+  - Acte2DialegAnaid1f
+  nextDialeg: {fileID: 0}
+  nextCadenat: {fileID: 0}
+  cinematica: {fileID: 0}
+  despresDialeg: 6
+  liniaRetornarDecisio:
+    nom: 
+    idPersonatge: 
+    anims: []
+    textValencia: 
+    textCastellano: 
+    textEnglish: 
+--- !u!1 &1265804527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1265804528}
+  - component: {fileID: 1265804529}
+  m_Layer: 7
+  m_Name: Dialeg1e2POSTLorenei
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1265804528
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1265804527}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1853779085}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1265804529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1265804527}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a488802e980e1cd4ebc23370ab1849bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataDialegJSON: {fileID: 4900000, guid: 3a5e019bdc7ac93448b5c4ed327519aa, type: 3}
+  liniesDialeg: []
+  decisioEsCadenat: 1
+  desicio: {fileID: 719913819}
+  eventActivable: 0
+  activador: {fileID: 0}
+  clausDespresDialeg: []
+  nextDialeg: {fileID: 0}
+  nextCadenat: {fileID: 0}
+  cinematica: {fileID: 0}
+  despresDialeg: 6
+  liniaRetornarDecisio:
+    nom: 
+    idPersonatge: 
+    anims: []
+    textValencia: 
+    textCastellano: 
+    textEnglish: 
+--- !u!1 &1297287179
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1297287180}
+  - component: {fileID: 1297287187}
+  - component: {fileID: 1297287186}
+  - component: {fileID: 1297287185}
+  - component: {fileID: 1297287184}
+  - component: {fileID: 1297287183}
+  - component: {fileID: 1297287182}
+  - component: {fileID: 1297287181}
+  m_Layer: 7
+  m_Name: Dialeg1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1297287180
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1297287179}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 719913817}
+  m_Father: {fileID: 602277397}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1297287187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1297287179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a488802e980e1cd4ebc23370ab1849bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataDialegJSON: {fileID: 4900000, guid: 4766783a98a4f964a9c91db93a35610e, type: 3}
+  liniesDialeg: []
+  decisioEsCadenat: 1
+  desicio: {fileID: 1297287186}
+  eventActivable: 0
+  activador: {fileID: 0}
+  clausDespresDialeg:
+  - Acte2DialegAnaid1
+  nextDialeg: {fileID: 0}
+  nextCadenat: {fileID: 0}
+  cinematica: {fileID: 0}
+  despresDialeg: 1
+  liniaRetornarDecisio:
+    nom: 
+    idPersonatge: 
+    anims: []
+    textValencia: 
+    textCastellano: 
+    textEnglish: 
+--- !u!114 &1297287186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1297287179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2da86a78ce3b447438b822266f99c464, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nom: "ANA\xCDD"
+  idPersonatge: Anaid
+  anims:
+  - {fileID: 1297287185}
+  - {fileID: 1297287184}
+  textValencia: ...
+  textCastellano: ...
+  textEnglish: ...
+  opcions: []
+  opcionsBloquetjades: []
+  opcionsEixida:
+  - {fileID: 1297287183}
+  - {fileID: 1297287182}
+  - {fileID: 1297287181}
+  dialegEixida: {fileID: 0}
+--- !u!114 &1297287185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1297287179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e598286d8f2ddb3498c3263720ee2bac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idPersonatge: AndreuDetectiu
+  anim: escoltar
+  canviOrientacio: 0
+--- !u!114 &1297287184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1297287179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e598286d8f2ddb3498c3263720ee2bac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idPersonatge: Anaid
+  anim: enfadada
+  canviOrientacio: 0
+--- !u!114 &1297287183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1297287179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f5bcb06d7fd60844b9b7a029ad51905, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textValencia: "Qu\xE8 feia en el local?"
+  textCastellano: "\xBFQu\xE9 hac\xEDa en el local?"
+  textEnglish: Why were she in the place?
+  selectText: 
+  boto: {fileID: 0}
+  spr_original: {fileID: 0}
+  spr_baixCursor: {fileID: 0}
+  spr_pulsat: {fileID: 0}
+  textJSON: {fileID: 0}
+  dialeg: {fileID: 719913818}
+--- !u!114 &1297287182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1297287179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f5bcb06d7fd60844b9b7a029ad51905, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textValencia: Coneixia al mort?
+  textCastellano: "\xBFConoc\xEDa al muerto?"
+  textEnglish: Did you know the dead man?
+  selectText: 
+  boto: {fileID: 0}
+  spr_original: {fileID: 0}
+  spr_baixCursor: {fileID: 0}
+  spr_pulsat: {fileID: 0}
+  textJSON: {fileID: 0}
+  dialeg: {fileID: 719913818}
+--- !u!114 &1297287181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1297287179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f5bcb06d7fd60844b9b7a029ad51905, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textValencia: "L'espasa \xE9s seua?"
+  textCastellano: "\xBFLa espada es suya?"
+  textEnglish: Is the sword yours?
+  selectText: 
+  boto: {fileID: 0}
+  spr_original: {fileID: 0}
+  spr_baixCursor: {fileID: 0}
+  spr_pulsat: {fileID: 0}
+  textJSON: {fileID: 0}
+  dialeg: {fileID: 719913818}
+--- !u!1 &1853779084
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1853779085}
+  - component: {fileID: 1853779087}
+  - component: {fileID: 1853779086}
+  m_Layer: 7
+  m_Name: Dialeg1e2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1853779085
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1853779084}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1265804528}
+  - {fileID: 152838266}
+  m_Father: {fileID: 660733828}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1853779087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1853779084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a488802e980e1cd4ebc23370ab1849bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataDialegJSON: {fileID: 4900000, guid: d3c635d876bc3824fa2fb7ab2a368325, type: 3}
+  liniesDialeg: []
+  decisioEsCadenat: 0
+  desicio: {fileID: 0}
+  eventActivable: 0
+  activador: {fileID: 0}
+  clausDespresDialeg: []
+  nextDialeg: {fileID: 0}
+  nextCadenat: {fileID: 1853779086}
+  cinematica: {fileID: 0}
+  despresDialeg: 5
+  liniaRetornarDecisio:
+    nom: 
+    idPersonatge: 
+    anims: []
+    textValencia: 
+    textCastellano: 
+    textEnglish: 
+--- !u!114 &1853779086
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1853779084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3229c00b3ade5774cb653d0ccf2515b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialegsBloquetjats:
+  - claus_condicions:
+    - clau: Acte2DialegLorenei1
+      obrir: 1
+    dialeg: {fileID: 1265804529}
+  dialegEixida: {fileID: 152838267}
+--- !u!1 &1240278082047410635
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1331580959852979748}
+  m_Layer: 7
+  m_Name: ObjectiuCara
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1331580959852979748
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1240278082047410635}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.61, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3565716085455710566}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3565716085455710567
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3565716085455710566}
+  - component: {fileID: 3565716085455710565}
+  - component: {fileID: 3565716085455710564}
+  - component: {fileID: 3565716085455710563}
+  m_Layer: 7
+  m_Name: Anaid_Sprite
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3565716085455710566
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3565716085455710567}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4288843148200029996}
+  - {fileID: 1331580959852979748}
+  - {fileID: 5543514596138917650}
+  m_Father: {fileID: 3565716085524897517}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &3565716085455710565
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3565716085455710567}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 87372112be2a1bf4e9a7668151bc2b52, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -765484373076492941, guid: 2f74b7b4b265f97469b5d70b22327590, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 11.009999, y: 12.852168}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &3565716085455710564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3565716085455710567}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26cc6b73a96847f4c9dabbfaa0a69e11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idPersonatge: Anaid
+  dialegAnims:
+  - basic_callar
+  - "bra\xE7osCreuats_xarrar"
+  - confusa_xarrar
+  - enfadada_callar
+  - iracunda_xarrar
+  - saludar_xarrar
+  animDefecte: "bra\xE7osCreuats_xarrar"
+--- !u!95 &3565716085455710563
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3565716085455710567}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 80546098bc1e56740a76a6e5198eb4e2, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &3565716085524897518
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3565716085524897517}
+  m_Layer: 7
+  m_Name: ANAID
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3565716085524897517
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3565716085524897518}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 26.021433, y: 2, z: -51.9}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3565716085455710566}
+  - {fileID: 3565716084788504694}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &3565716084788114164
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3565716085524897517}
+    m_Modifications:
+    - target: {fileID: 100002, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+      propertyPath: m_Name
+      value: ShadowProjector
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+--- !u!4 &3565716084788504694 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400002, guid: 28a5e79925e3ce04a82856c16a572cbe, type: 3}
+  m_PrefabInstance: {fileID: 3565716084788114164}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3565716085076819939
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3565716085455710566}
+    m_Modifications:
+    - target: {fileID: 792352049058730184, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+      propertyPath: m_Name
+      value: TriggersDialog
+      objectReference: {fileID: 0}
+    - target: {fileID: 792352049058730188, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+      propertyPath: cadenat
+      value: 
+      objectReference: {fileID: 602277398}
+    - target: {fileID: 792352049058730189, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+      propertyPath: senyals
+      value: 
+      objectReference: {fileID: 5543514596138917649}
+    - target: {fileID: 792352049058730191, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 792352049058730191, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 792352049058730191, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 792352049058730191, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 792352049058730191, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 792352049058730191, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 792352049058730191, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 792352049058730191, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 792352049058730191, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 792352049058730191, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 792352049058730191, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8197401480121496574, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+--- !u!4 &4288843148200029996 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 792352049058730191, guid: 8a02785ecf3953a4f9338f8fb958b3a6, type: 3}
+  m_PrefabInstance: {fileID: 3565716085076819939}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3600285854338161887
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3565716085455710566}
+    m_Modifications:
+    - target: {fileID: 9014040206906295244, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+      propertyPath: m_Name
+      value: SenyalsDialeg
+      objectReference: {fileID: 0}
+    - target: {fileID: 9014040206906295245, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9014040206906295245, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9014040206906295245, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9014040206906295245, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9014040206906295245, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9014040206906295245, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9014040206906295245, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9014040206906295245, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9014040206906295245, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9014040206906295245, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9014040206906295245, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+--- !u!4 &5543514596138917650 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9014040206906295245, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+  m_PrefabInstance: {fileID: 3600285854338161887}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5543514596138917649 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 9014040206906295246, guid: 80f1ea9df883f444e974c645e2847fe0, type: 3}
+  m_PrefabInstance: {fileID: 3600285854338161887}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bfb2f9fee7893245b71440b062e6bcf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

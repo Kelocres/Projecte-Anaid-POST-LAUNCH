@@ -1,0 +1,78 @@
+{
+    "liniesDialeg": [
+        {
+        
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "De fet, quan va ocorrer el furt de la relíquia que estic buscant, el culpable més evident era ell.  ",
+            "textCastellano" :
+                "De hecho, cuando ocurrió el hurto de la reliquia que estoy buscando, el culpable más evidente era él.  ",
+            "textEnglish" :
+                "In fact, when the relic's theft happened, the most obvious guilty was him.  "
+        },
+        {
+        
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Però ara que està mort, trobar-la serà molt més difícil.  ",
+            "textCastellano" :
+                "Pero ahora que está muerto, encontrarla será mucho más difícil.  ",
+            "textEnglish" :
+                "But now that he is dead, finding it will be much harder.  "
+        }
+        
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "No es distraiga amb la relíquia, encara no em acabat.  ",
+            "textCastellano" :
+                "No se distraiga con la reliquia, todavía no hemos acabado.  ",
+            "textEnglish" :
+                "Don't get distracted with the relic, we have not done yet.  "
+    }
+}

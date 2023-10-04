@@ -1,0 +1,373 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "preocupat"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "basic_callar"
+                }
+            ],
+            "textValencia" :
+                "Xema el cambrer! És vosté l'assasí!  ",
+            "textCastellano" :
+                "¡Xema el camarero! ¡Es usted el asesino!  ",
+            "textEnglish" :
+                "Xema the waiter! You are the murderer!  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "sorpres"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar",
+                    "canviaOrientacio": -1
+                }
+            ],
+            "textValencia" :
+                "QUEEEEEEEEE!!!  ",
+            "textCastellano" :
+                "¡¡¡QUEEEEEEEEE!!!  ",
+            "textEnglish" :
+                "WHAAAAAAAAAAAT!!!  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                }
+            ],
+            "textValencia" :
+                "Vosté depén moltíssim d'aquest bar, encara que sols siga un treballador.  ",
+            "textCastellano" :
+                "Usted depende muchísimo de este bar, aunque sólo sea un trabajador.  ",
+            "textEnglish" :
+                "You depend a lot on this bar, even though you are just an employee.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "Els tractes il·legals de Maiquel Kieras estaven donant mala fama al local, de manera que molts clients eviten vindre ací.  ",
+            "textCastellano" :
+                "Los tratos ilegales de Maiquel Kieras estaban dando mala fama al local, de manera que muchos clientes evitan venir aquí.  ",
+            "textEnglish" :
+                "Michael Kieras' illegal deals were giving a bad reputation to the local, therefore many clients avoid coming in here.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "A llarg termini, el bar deixaria de ser rentable i es tancaria. Com no volia acabar al carrer, vosté va decidir solucionar el problema des de l'arrel.  ",
+            "textCastellano" :
+                "A largo plazo, el bar dejaría de ser rentable y se cerraría. Como no quería acabar en la calle, usted decició solucionar el problema desde la raíz.  ",
+            "textEnglish" :
+                "The bar would stop being profitable in long-term and would be closed. You didn't want to lose your job, so you decided to solve the problem from its roots.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                }
+            ],
+            "textValencia" :
+                "Sabia molt bé que el senyor Kieras tornaria al local, prompte o tard; així que el va esperar, amb l'espasa amagada baix la barra.  ",
+            "textCastellano" :
+                "Sabía muy bien que el señor Kieras volvería al local, tarde o temprano; así que lo esperó, con la espada escondida bajo la barra.  ",
+            "textEnglish" :
+                "You knew very well that mister Kieras would come back to the local, sooner or later; so you waited, with the sword hidden down the bar.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                }
+            ],
+            "textValencia" :
+                "I mentre ell estava distragut en la seu taula, va trobar l'oportunitat.  ",
+            "textCastellano" :
+                "Y mientras él estaba distraído en su mesa, encontró la oportunidad.  ",
+            "textEnglish" :
+                "And while he was distracted in his table, you found your chance.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "nervios_callat"
+                }
+            ],
+            "textValencia" :
+                "Va apagar les llums, l'atravesà amb l'espasa i va tornar al seu lloc per a fingir que no va ser vosté!  ",
+            "textCastellano" :
+                "¡Apagó las luces, lo atravesó con la espada y volvió a su lugar para fingir que no fue usted!  ",
+            "textEnglish" :
+                "You turned off the lights, you stabbed him with the sword and came back to your place to pretend you didn't do it!  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "nervios_xarrar"
+                }
+            ],
+            "textValencia" :
+                "No! De cap manera! Això no té peus ni cap!  ",
+            "textCastellano" :
+                "¡No! ¡De ninguna manera! ¡Eso no tiene ni pies ni cabeza!  ",
+            "textEnglish" :
+                "No! No freaking way! That makes zero sense at all!  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Es cert que es sap lo dels tractes clandestins, però la gent continua venint igual.  ",
+            "textCastellano" :
+                "Es cierto que se sabe lo de los tratos clandestinos, pero la gente continúa viniendo igual.  ",
+            "textEnglish" :
+                "It is true that people know about the clandestine deals, but they keep going in here.  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "Els nostres clients habituals són hippies o gent jove en general, estan ben acostumats a comprar marihuana a amagades de la llei.  ",
+            "textCastellano" :
+                "Nuestros clientes habituales son hippies o gente joven en general, están bien acostumbrados a comprar marihuana a escondidas de la ley.  ",
+            "textEnglish" :
+                "Our common customers are hippies or young people in general, they are used as hell to buying weed secretly.  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "Una negociació clandestina a l'altre costat de la barra on beuen lis dona totalment igual!  ",
+            "textCastellano" :
+                "¡Una negociación clandestina al otro lado de la barra donde beben les da totalmente igual!  ",
+            "textEnglish" :
+                "They could not care less about clandestine negatiations in the other side of the bar where they drink!  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "desconfiat_xarrar"
+                }
+            ],
+            "textValencia" :
+                "I allò de que el matara a fosques tampoc té trellat!  ",
+            "textCastellano" :
+                "¡Y eso de que lo matara a oscuras tampoco tiene sentido!  ",
+            "textEnglish" :
+                "And it is also insane that I killed him in the dark!  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "L'home estava a massa distància de mi per a que jo correguera cap a ell, li estacara l'espasa i tornara al lloc...  ",
+            "textCastellano" :
+                "El hombre está a demasiada distancia de mí para que yo corriese hacia él, le metiera la espada y volviera al lugar...  ",
+            "textEnglish" :
+                "That guy was too far away from me to run to him, thrust the sword into his chest and come back to my place...  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "...sense tropeçar amb cap cadira o taula, O LA PUNYETERA BARRA QUE TENDRIA QUE BOTAR DUES VEGADES!!  ",
+            "textCastellano" :
+                "...sin tropezar con ninguna silla o mesa, ¡¡O LA PUÑETERA BARRA QUE TENDRÍA QUE SALTAR DOS VECES!!  ",
+            "textEnglish" :
+                "...without tripping on any chair or table, OR THE BLOODY BAR THAT I WOULD HAVE TO JUMP TWICE!!  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "Fer tot allò sense vore res, en el curt espai de temps en que es va anar la llum, i poder fingir que no ho vaig fer jo,  ",
+            "textCastellano" :
+                "Hacer todo eso sin ver nada, en el corto espacio de tiempo en que se fue la luz, y poder fingir que no lo hice yo,  ",
+            "textEnglish" :
+                "Doing all of that seeing nothing, in the short time the lights were off, and being able to pretend I didn't do it,  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "ÉS!  ",
+            "textCastellano" :
+                "¡ES!  ",
+            "textEnglish" :
+                "IS!  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "TOTALMENT!  ",
+            "textCastellano" :
+                "¡TOTALMENTE!  ",
+            "textEnglish" :
+                "TOTALLY!  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "ABSURD!  ",
+            "textCastellano" :
+                "¡ABSURDO!  ",
+            "textEnglish" :
+                "NONSENSE!  "
+        },
+
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "desconfiat_callat"
+                }
+            ],
+            "textValencia" :
+                "...  ",
+            "textCastellano" :
+                "...  ",
+            "textEnglish" :
+                "...  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "desconfiat_callat"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar",
+                    "canviaOrientacio": 1
+                }
+            ],
+            "textValencia" :
+                "... c-clar que és absurd, home! Sols era una... una... brometa que gastar-te abans de senyalar al culpable real.  ",
+            "textCastellano" :
+                "...¡c-claro que es absurdo, hombre! Sólo era una... una... bromita que gastarte antes de señalar al culpable real.  ",
+            "textEnglish" :
+                "... o-of course it is nonsense, my friend! It was just a... a... little joke before exposing the real guilty.  "
+        }
+        
+
+    ],
+    "liniaRetornarDecisio":
+    {
+        "nom": "DETECTIU",
+        "idPersonatge": "AndreuDetectiu",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "reflexionar"
+            },
+            {
+                "idPersonatge" : "ChemaCambrer",
+                "anim" : "desconfiat_callat"
+            }
+        ],
+        "textValencia" :
+            "...  ",
+        "textCastellano" :
+            "...  ",
+        "textEnglish" :
+            "...  "
+    }
+    
+}

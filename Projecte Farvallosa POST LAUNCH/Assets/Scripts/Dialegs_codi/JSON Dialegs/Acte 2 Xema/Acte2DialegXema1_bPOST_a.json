@@ -1,0 +1,67 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "desconfiat_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Maiquel Kieras, ve des de fa setmanes, moltes vegades sols beu... Li acabe de comptar açò fa un minut!",
+            "textCastellano" :
+                "Maiquel Kieras, viene desde hace semanas, muchas veces sólo bebe... ¡Le acabo de contar esto hace un minuto!",
+            "textEnglish" :
+                "Michael Kieras, he comes since weeks ago, usually he drinks alone... I've just told you this a minute ago!"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "desconfiat_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Com pots ser tú un detectiu amb eixa memòria de merda?",
+            "textCastellano" :
+                "¿Cómo puedes ser tú un detective con esa memoria de mierda?",
+            "textEnglish" :
+                "How the hell can you be a detective with that shitty memory?"
+        }
+
+
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            {
+                "idPersonatge" : "",
+                "anim" : ""
+            },
+            {
+                "idPersonatge" : "",
+                "anim" : ""
+            }
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    }
+}

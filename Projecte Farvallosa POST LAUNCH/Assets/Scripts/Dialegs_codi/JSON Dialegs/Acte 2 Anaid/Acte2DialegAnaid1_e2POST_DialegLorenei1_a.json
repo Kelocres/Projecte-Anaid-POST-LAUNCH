@@ -1,0 +1,180 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "I què em diu de la relíquia de les fades?  ",
+            "textCastellano" :
+                "¿Y qué me dice de la reliquia de las hadas?  ",
+            "textEnglish" :
+                "And what can you say about the fairies' relic?  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "confusa_xarrar"
+                }
+            ],
+            "textValencia" :
+                "La què?  ",
+            "textCastellano" :
+                "¿La qué?  ",
+            "textEnglish" :
+                "The what?  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "confusa_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Una relíquia ha sigut furtada del temple de les fades.  ",
+            "textCastellano" :
+                "Una reliquia ha sido robada del templo de las hadas.  ",
+            "textEnglish" :
+                "A relic was robbed in the fairies' temple.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "confusa_xarrar"
+                }
+            ],
+            "textValencia" :
+                "I segons la teua confessió, tens la capacitat d'introduir-te en llocs prohibits i endur-te qualsevol cosa. O m'equivoque?  ",
+            "textCastellano" :
+                "Y según tu confesión, tienes la capacidad de introducirte en lugares prohibidos y llevarte cualquier cosa. ¿O me equivoco?  ",
+            "textEnglish" :
+                "And according to your confession, you have the skill to sneak in forbidden places and take anything out. Or am I wrong?  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Escolta, que haja entrat en UN edifici no significa que ho fera més vegades!  ",
+            "textCastellano" :
+                "¡Oye, que haya entrado en UN edificio no significa que lo hiciera más veces!  ",
+            "textEnglish" :
+                "Listen, because I have entered illegaly in ONE building doesn't mean that I did it more times.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "O ara penses encasquetar-me tots els furts del poble?!  ",
+            "textCastellano" :
+                "¡¿O ahora piensas encasquetarme todos los robos del pueblo?!  ",
+            "textEnglish" :
+                "Or now are you gonna charge me all the robberings in town?!  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "No seria desgavellat. Però convé centrar-nos en el crimen actual. Els altres delictes s'investigaran de manera objectiva més avant.  ",
+            "textCastellano" :
+                "No sería descabellado. Pero conviene centrarnos en el crimen actual. Los demás delitos se investigarán de manera objetiva más adelante.  ",
+            "textEnglish" :
+                "I wouldn't be unreasonable. But we must focus in the current case. The other crimes will be objectively investigated later.  "
+        }
+        
+        
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "ANAÍD",
+        "idPersonatge": "Anaid",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "escoltar"
+            },
+            {
+                "idPersonatge" : "Anaid",
+                "anim" : "enfadada_callar"
+            }
+        ],
+        "textValencia" :
+            "De manera objectiva... Sí clar, i jo ho he de creure.  ",
+        "textCastellano" :
+            "De manera objetiva... Sí claro, y yo me lo he de creer.  ",
+        "textEnglish" :
+            "Objectively... Ha, I don't believe that.  "
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "A què ha vingut vosté aquesta nit a aquest bar? A beure sola? O amb algú?  ",
+            "textCastellano" :
+                "¿A qué ha venido usted esta noche a este bar? ¿A beber sola? ¿O con alguien?  ",
+            "textEnglish" :
+                "Why did you come tonight to this bar? For drinking alone? Or with someone?  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Venia a buscar feina.  ",
+            "textCastellano" :
+                "Vine a buscar trabajo.  ",
+            "textEnglish" :
+                "I came to look for a job.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Feina? En el bar?  ",
+            "textCastellano" :
+                "¿Trabajo? ¿En el bar?  ",
+            "textEnglish" :
+                "A job? In this bar?  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Vorà, quan se és una inmigrant il·legal en un país que es totalment alié a mí, les oficines de treball són inútils per a trobar tasques adaptades a les meues capacitats.  ",
+            "textCastellano" :
+                "Verá, cuando se es una inmigrante ilegal en un país que es totalmente alien a tí, las oficinas de trabajo son incapaces de encontrar tareas adaptadas a mis capacidades.  ",
+            "textEnglish" :
+                "Look, when a person is an illegal inmigrant in a tolally alien country, conventional labour offices are unable to find the right job for her abilities.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "No saben com adaptar-se a esta nova demanda; i si acàs ho intenten, no poden funcionar a temps de que no et muires de fam esperant.  ",
+            "textCastellano" :
+                "No saben cómo adaptarse a esta nueva demanda; y si acaso lo intentan, no pueden funcionar a tiempo para que te mueras de hambre esperando.  ",
+            "textEnglish" :
+                "They don't know how to adapt to this new demand; and even if they try, they take so much time in getting results that you mostly may die by starvation.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Irremediablement, la meua gent està obligada a moure's en llocs on va la gent per a trobar treball.  ",
+            "textCastellano" :
+                "Irremediablemente, mi gente está obligada a moverse en lugares donde va la gente para encontrar trabajo.  ",
+            "textEnglish" :
+                "Irremediably, my people is obliged to go to places where there are people to find any job.  "
+        }
+        
+    ],
+    "desicio":
+    {
+        "nom": "ANAÍD",
+        "idPersonatge": "Anaid",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "reflexionar"
+            },
+            {
+                "idPersonatge" : "Anaid",
+                "anim" : "braçosCreuats_xarrar"
+            }
+        ],
+        "textValencia" :
+            "Solen ser tasques d'un dia o dos a canvi d'uns poquets diners, però és algo.  ",
+        "textCastellano" :
+            "Suelen ser tareas de un día o dos a cambio de poco dinero, pero es algo.  ",
+        "textEnglish" :
+            "Those often are one or two days' tasks in exchange of little money, but it's something.  "
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    }
+}

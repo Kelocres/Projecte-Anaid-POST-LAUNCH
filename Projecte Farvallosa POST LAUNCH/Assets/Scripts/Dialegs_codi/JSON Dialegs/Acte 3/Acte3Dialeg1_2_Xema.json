@@ -1,0 +1,35 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "preocupat"
+                }
+            ],
+            "textValencia" :
+                "El senyor Xema va vore com es convertia el seu bar en un lloc per al tripijoc, i a ell en un còmplice al ser testiu d'aquestes activitats.  ",
+            "textCastellano" :
+                "El señor Xema vió como se convertía su bar en un lugar para los trapicheos, y a él en un cómplice al ser testigo de estas actividades.  ",
+            "textEnglish" :
+                "Mister Xema saw how his bar became a place for illegal deals, and him an accomplice for being a witness of this activities.  "
+        }
+        
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    }
+}

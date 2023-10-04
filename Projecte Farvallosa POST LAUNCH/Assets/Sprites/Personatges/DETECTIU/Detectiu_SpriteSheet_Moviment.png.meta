@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 057b2e334de08df4a84b1d0848fa3e06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8673283017423276642
+    second: Caminar_Darrere01
+  - first:
+      213: -4780181592426244537
+    second: Caminar_Darrere02
+  - first:
+      213: -2226058601652848483
+    second: Caminar_Darrere03
+  - first:
+      213: -3310269402262020007
+    second: Caminar_Darrere04
+  - first:
+      213: -1767798620756315416
+    second: Idle_Darrere
+  - first:
+      213: -5071313039404258532
+    second: Caminar_Front01
+  - first:
+      213: 1991661068647017703
+    second: Caminar_Front02
+  - first:
+      213: 5096231331953190858
+    second: Caminar_Front03
+  - first:
+      213: 5490989574674263511
+    second: Caminar_Front04
+  - first:
+      213: -1885754487865782746
+    second: Idle_Front
+  - first:
+      213: 530487250260881331
+    second: Caminar_Esquerra01
+  - first:
+      213: -2973862220461996196
+    second: Caminar_Esquerra02
+  - first:
+      213: -6378146597911385541
+    second: Caminar_Esquerra03
+  - first:
+      213: 6903388286813096510
+    second: Caminar_Esquerra04
+  - first:
+      213: -927823460667397872
+    second: Idle_Esquerra
+  - first:
+      213: -824845478475220240
+    second: Caminar_Dreta01
+  - first:
+      213: -3381903560323623639
+    second: Caminar_Dreta02
+  - first:
+      213: 2156655144014039062
+    second: Caminar_Dreta03
+  - first:
+      213: 1320027737643063640
+    second: Caminar_Dreta04
+  - first:
+      213: -2469478404905706772
+    second: Idle_Dreta
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caminar_Darrere01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4350
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a41f983f0bd5870800000000000000
+      internalID: 8673283017423276642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Darrere02
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 4350
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746929d0b2269adb0800000000000000
+      internalID: -4780181592426244537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Darrere03
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 4350
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d987747fe737b11e0800000000000000
+      internalID: -2226058601652848483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Darrere04
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 4350
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950e357648f8f02d0800000000000000
+      internalID: -3310269402262020007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Darrere
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 4350
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2f46745848777e0800000000000000
+      internalID: -1767798620756315416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Front01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2900
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ba08dd8a31f99b0800000000000000
+      internalID: -5071313039404258532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Front02
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2900
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec2ead803dc3ab10800000000000000
+      internalID: 1991661068647017703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Front03
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2900
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7294a356379b640800000000000000
+      internalID: 5096231331953190858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Front04
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 2900
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd25d7fce9e33c40800000000000000
+      internalID: 5490989574674263511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Front
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2900
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e4921d84474d5e0800000000000000
+      internalID: -1885754487865782746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Esquerra01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1450
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf6cade75bac5700800000000000000
+      internalID: 530487250260881331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Esquerra02
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1450
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5788621118bab6d0800000000000000
+      internalID: -2973862220461996196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Esquerra03
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1450
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a202a46754c77a0800000000000000
+      internalID: -6378146597911385541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Esquerra04
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1450
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a46163213cdcf50800000000000000
+      internalID: 6903388286813096510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1450
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01965a47a75bf13f0800000000000000
+      internalID: -927823460667397872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Dreta01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fab5e4586f8d84f0800000000000000
+      internalID: -824845478475220240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Dreta02
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925184641a01111d0800000000000000
+      internalID: -3381903560323623639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Dreta03
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618c9f15d6afded10800000000000000
+      internalID: 2156655144014039062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminar_Dreta04
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 0
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85990ebcb3ea15210800000000000000
+      internalID: 1320027737643063640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Dreta
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 0
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cead81f7976aabdd0800000000000000
+      internalID: -2469478404905706772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 40b2a0a9643bb4047957340d3594aaa9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

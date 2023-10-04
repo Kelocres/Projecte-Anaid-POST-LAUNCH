@@ -1,0 +1,106 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                }
+            ],
+            "textValencia" :
+                "...",
+            "textCastellano" :
+                "¡Buenas noches, señor!",
+            "textEnglish" :
+                "Good night, sir!"
+        },
+        {
+            "nom": "EL CHEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                }
+            ],
+            "textValencia" :
+                "se-senyor?",
+            "textCastellano" :
+                "El JSON funciona bien, según parece",
+            "textEnglish" :
+                "JSON works well, it seems"
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                }
+            ],
+            "textValencia" :
+                "Aquesta situació m'ha fet pensar sobre el contexte actual...",
+            "textCastellano" :
+                "¡Buenas noches, señor!",
+            "textEnglish" :
+                "Good night, sir!"
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Per qué aquest edifici no té cap sostre? Per qué li falta una pared allí al fons? D'on he vingut jo, i a qué venía?",
+            "textCastellano" :
+                "¡Buenas noches, señor!",
+            "textEnglish" :
+                "Good night, sir!"
+        },
+        {
+            "nom": "EL CHEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "vosté només devia dir que elegia el botó de baix, senyor...",
+            "textCastellano" :
+                "El JSON funciona bien, según parece",
+            "textEnglish" :
+                "JSON works well, it seems"
+        }
+
+
+    ]
+}

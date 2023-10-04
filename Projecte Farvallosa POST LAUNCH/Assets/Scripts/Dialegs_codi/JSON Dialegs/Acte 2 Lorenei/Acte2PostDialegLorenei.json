@@ -1,0 +1,36 @@
+{
+    "liniesDialeg": [
+        
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Ja li he dit tot lo que necessita.  ",
+            "textCastellano" :
+                "Ya le he dicho todo lo que necesita.  ",
+            "textEnglish" :
+                "I already told you everything that you need.  "
+    }
+        
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    }
+}

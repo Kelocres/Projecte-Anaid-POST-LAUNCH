@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: f9523a602166b454cac1338926b7fa30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8927925309372673039
+    second: Preocupat_Dreta
+  - first:
+      213: 8807683357802843929
+    second: Dramatic_Xarrar_Dreta
+  - first:
+      213: 2644937262816969888
+    second: Desconfiat_Xarrar_Dreta
+  - first:
+      213: -7415873781971463760
+    second: Preocupat_Esquerra
+  - first:
+      213: -4298166164341971255
+    second: Dramatic_Xarrar_Esquerra
+  - first:
+      213: 492206546098605426
+    second: Desconfiat_Xarrar_Esquerra
+  - first:
+      213: -427782050543026909
+    second: Nervios_Xarrar_Dreta
+  - first:
+      213: 1119735794925625157
+    second: Sorpres_Dreta
+  - first:
+      213: 8597592285542356681
+    second: Indiferent_Xarrar_Dreta
+  - first:
+      213: -530387961391269343
+    second: Nervios_Xarrar_Esquerra
+  - first:
+      213: 2544597142247352217
+    second: Sorpres_Esquerra
+  - first:
+      213: -1034992102572684698
+    second: Indiferent_Xarrar_Esquerra
+  - first:
+      213: -85316656507888410
+    second: Nervios_Callat_Dreta
+  - first:
+      213: -7062360311041880397
+    second: Desconfiat_Callat_Dreta
+  - first:
+      213: 6899917074345771624
+    second: Dramatic_Callat_Dreta
+  - first:
+      213: -6744073858442004050
+    second: Nervios_Callat_Esquerra
+  - first:
+      213: -4622904120925630512
+    second: Desconfiat_Callat_Esquerra
+  - first:
+      213: -5596504453217650618
+    second: Dramatic_Callat_Esquerra
+  - first:
+      213: -2258183663566579140
+    second: Orgullos_Callat_Dreta
+  - first:
+      213: 7510004482690877906
+    second: Orgullos_Xarrar_Dreta
+  - first:
+      213: 4077649486538545480
+    second: Indiferent_Callat_Dreta
+  - first:
+      213: -9019843702951634728
+    second: Orgullos_Callat_Esquerra
+  - first:
+      213: 5945864708124476610
+    second: Orgullos_Xarra_Dreta
+  - first:
+      213: -2332307073240633557
+    second: Indiferent_Callat_Esquerra
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Preocupat_Dreta
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4155
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f35f99bb33a91480800000000000000
+      internalID: -8927925309372673039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dramatic_Xarrar_Dreta
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 4155
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f45fb495d2b3a70800000000000000
+      internalID: 8807683357802843929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desconfiat_Xarrar_Dreta
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 4155
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a446635d64b4b420800000000000000
+      internalID: 2644937262816969888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preocupat_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 4155
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b155761616851990800000000000000
+      internalID: -7415873781971463760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dramatic_Xarrar_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 4155
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c62bcc65a8d954c0800000000000000
+      internalID: -4298166164341971255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desconfiat_Xarrar_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 5505
+        y: 4155
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d4450fe3ba4d600800000000000000
+      internalID: 492206546098605426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nervios_Xarrar_Dreta
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2770
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d3814dd76301af0800000000000000
+      internalID: -427782050543026909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorpres_Dreta
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 2770
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fd4dad5c91a8f00800000000000000
+      internalID: 1119735794925625157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indiferent_Xarrar_Dreta
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 2770
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c61467b1a8c05770800000000000000
+      internalID: 8597592285542356681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nervios_Xarrar_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 2770
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a312095fea3a8f0800000000000000
+      internalID: -530387961391269343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorpres_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 2770
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a0287e99305320800000000000000
+      internalID: 2544597142247352217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indiferent_Xarrar_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 5505
+        y: 2770
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a02d49a28f2a1f0800000000000000
+      internalID: -1034992102572684698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nervios_Callat_Dreta
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1385
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec5c63f3f4e0def0800000000000000
+      internalID: -85316656507888410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desconfiat_Callat_Dreta
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1385
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be088017b47dfd90800000000000000
+      internalID: -7062360311041880397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dramatic_Callat_Dreta
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1385
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8624804950e61cf50800000000000000
+      internalID: 6899917074345771624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nervios_Callat_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 1385
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9f090be8c3862a0800000000000000
+      internalID: -6744073858442004050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desconfiat_Callat_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 1385
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfc989f13528dfb0800000000000000
+      internalID: -4622904120925630512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dramatic_Callat_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 5505
+        y: 1385
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648f112f9d83552b0800000000000000
+      internalID: -5596504453217650618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orgullos_Callat_Dreta
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a168f1ce159a0e0800000000000000
+      internalID: -2258183663566579140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orgullos_Xarrar_Dreta
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 0
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9816c8945e83860800000000000000
+      internalID: 7510004482690877906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indiferent_Callat_Dreta
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 0
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8491fab8a98b69830800000000000000
+      internalID: 4077649486538545480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orgullos_Callat_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 0
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8160cf0f313d280800000000000000
+      internalID: -9019843702951634728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orgullos_Xarra_Dreta
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 0
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c48a421374f38250800000000000000
+      internalID: 5945864708124476610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indiferent_Callat_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 5505
+        y: 0
+        width: 1101
+        height: 1385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f6c50f21bf1afd0800000000000000
+      internalID: -2332307073240633557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a25d530fdca15ac4b953d8c4f68765ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

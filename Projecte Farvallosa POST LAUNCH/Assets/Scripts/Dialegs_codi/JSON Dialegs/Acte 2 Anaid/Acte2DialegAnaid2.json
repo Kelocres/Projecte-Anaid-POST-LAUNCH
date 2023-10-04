@@ -1,0 +1,93 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Ja li he dit tot lo que vosté volia. Pot deixar que m'en vaja ja?  ",
+            "textCastellano" :
+                "Ya le he dicho todo lo que usted quería. ¿Puede dejarme ir ya?  ",
+            "textEnglish" :
+                "I already told you all that you wanted. Can you let me go now?  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "braçosCreuats_xarrar"
+                }
+            ],
+            "textValencia" :
+                "La investigació continua i hi han encara incògnites que aclarir. Així que tots deuen quedar-se.  ",
+            "textCastellano" :
+                "La investigación continúa y hay todavía incógnitas que aclarar. Así que todos deben quedarse.  ",
+            "textEnglish" :
+                "The investigation must go on and there are some questions to clarify yet. So everyone must stay here.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "...",
+            "textCastellano" :
+                "...",
+            "textEnglish" :
+                "..."
+        }
+        
+        
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    }
+}

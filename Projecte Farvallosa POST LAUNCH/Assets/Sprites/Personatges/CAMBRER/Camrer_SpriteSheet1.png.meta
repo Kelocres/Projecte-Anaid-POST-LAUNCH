@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 677520376fbdef14596e3d91466bb2f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3266309273344313033
+    second: Proba_Front
+  - first:
+      213: -7435827255882560546
+    second: Proba_PerfilDreta
+  - first:
+      213: 1599619245544833211
+    second: Proba_PerfilEsquerra
+  - first:
+      213: 2137746266564925631
+    second: Proba_Darrere
+  - first:
+      213: 1305317518175964153
+    second: Idle
+  - first:
+      213: 5596865604568422514
+    second: Proba_SemiPerfilDreta
+  - first:
+      213: 5232890765741656476
+    second: Dialog_XarrarDreta
+  - first:
+      213: -2363815158028395236
+    second: Dialog_EscoltarDreta
+  - first:
+      213: -3906281742581071643
+    second: Proba_SemiPerfilEsquerra
+  - first:
+      213: -6623920884344565963
+    second: Dialog_XarrarEsquerra
+  - first:
+      213: 5756117542602714026
+    second: Dialog_EscoltarEsquerre
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Proba_Front
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1450
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7397fb3850dbba2d0800000000000000
+      internalID: -3266309273344313033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proba_PerfilDreta
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1450
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbc3f9e182aec890800000000000000
+      internalID: -7435827255882560546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proba_PerfilEsquerra
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1450
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0049a8a3df23610800000000000000
+      internalID: 1599619245544833211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proba_Darrere
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1450
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8158637eccaad10800000000000000
+      internalID: 2137746266564925631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1450
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb09fded5b6d1210800000000000000
+      internalID: 1305317518175964153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proba_SemiPerfilDreta
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27817e72d9f0cad40800000000000000
+      internalID: 5596865604568422514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialog_XarrarDreta
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 850
+        height: 1450
+      alignment: 9
+      pivot: {x: 0.33, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9904782d66fe9840800000000000000
+      internalID: 5232890765741656476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialog_EscoltarDreta
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d980743aa023fd0800000000000000
+      internalID: -2363815158028395236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proba_SemiPerfilEsquerra
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 0
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e08cd493791ac9c0800000000000000
+      internalID: -3906281742581071643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialog_XarrarEsquerra
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 0
+        width: 850
+        height: 1450
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc95cfc0b1314a0800000000000000
+      internalID: -6623920884344565963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialog_EscoltarEsquerre
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 0
+        width: 850
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabaa346866d1ef40800000000000000
+      internalID: 5756117542602714026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3fa4953135a25864aadcac6254a8a89b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

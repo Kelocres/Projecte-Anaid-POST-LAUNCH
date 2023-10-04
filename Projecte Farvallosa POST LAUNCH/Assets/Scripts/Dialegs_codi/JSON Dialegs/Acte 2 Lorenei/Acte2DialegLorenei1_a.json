@@ -1,0 +1,96 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "I quina és eixa 'causa excepcional' per la cual ha vingut al poble?  ",
+            "textCastellano" :
+                "¿Y cuál es esa 'causa excepcional' por la cual ha venido al pueblo?  ",
+            "textEnglish" :
+                "And what is that 'exceptional case' you have come to town for?  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "En el temple de les fades, una antiga reliquia ha sigut furtada.  ",
+            "textCastellano" :
+                "En el templo de las hadas, una antigua reliquia ha sido robada.  ",
+            "textEnglish" :
+                "In the fairies' temple, an ancient relic has been robbed.  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "No sabem quin humà ha sigut, però he decidit investigar per a trobar al lladre.  ",
+            "textCastellano" :
+                "No sabemos cuál humano ha sido, pero he decidido investigar para encontrar al ladrón.  ",
+            "textEnglish" :
+                "We don't know what human did it, but I am decided to investigate and find the robber.  "
+        },
+        {
+            "nom": "LORENEI",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Tant la haja venut com si se l'ha quedat com a trofeu.  ",
+            "textCastellano" :
+                "Tanto la haya vendido como si se la ha quedado como trofeo.  ",
+            "textEnglish" :
+                "Even if it's actually sold or kept as a trophy.  "
+    }
+        
+        
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    }
+}

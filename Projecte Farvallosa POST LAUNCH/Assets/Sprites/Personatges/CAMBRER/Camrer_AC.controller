@@ -1,0 +1,425 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1101 &-8139756938249921406
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 2
+    m_ConditionEvent: isXarrant
+    m_EventTreshold: 0
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: -2134100210470998567}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0.25
+  m_TransitionOffset: 0
+  m_ExitTime: 0.25
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 0
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 1
+--- !u!1102 &-5100012299041844553
+AnimatorState:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dialog
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions:
+  - {fileID: -8139756938249921406}
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: -1096847068436788849}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
+--- !u!1102 &-2134100210470998567
+AnimatorState:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Camrer_idle
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions:
+  - {fileID: 7448823547907380069}
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 77dd2561b544e5043980babc5aa58248, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
+--- !u!206 &-1096847068436788849
+BlendTree:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Blend Tree
+  m_Childs:
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 601a38e78122bd942a1349491726dc48, type: 2}
+    m_Threshold: 0
+    m_Position: {x: 0, y: 0}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: "numAnimaci\xF3"
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 30e12c3bebc677144b315b12581213fb, type: 2}
+    m_Threshold: 0.037037037
+    m_Position: {x: 1, y: 0}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: "numAnimaci\xF3"
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 48cf96853ebeae44080f83a293e2b3a8, type: 2}
+    m_Threshold: 0.074074075
+    m_Position: {x: 0, y: 1}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: "numAnimaci\xF3"
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 2bbfcc745ee788043b62dc78958f1ece, type: 2}
+    m_Threshold: 0.11111111
+    m_Position: {x: 1, y: 1}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: "numAnimaci\xF3"
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 3f258936a79d7234ea615de262d97766, type: 2}
+    m_Threshold: 0.14814815
+    m_Position: {x: 0, y: 2}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 15cb742ad3d74ea48bfae56b44e53a65, type: 2}
+    m_Threshold: 0.18518518
+    m_Position: {x: 1, y: 2}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 8b41572badf03de48a2cff4bc351cce7, type: 2}
+    m_Threshold: 0.22222222
+    m_Position: {x: 0, y: 3}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: f62c904de9d9cf54da7551342a70b6e6, type: 2}
+    m_Threshold: 0.25925925
+    m_Position: {x: 1, y: 3}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 89536aa8584993e408f5d8bb6a1ee9af, type: 2}
+    m_Threshold: 0.2962963
+    m_Position: {x: 0, y: 4}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: f53b317b0a225fe4ca0980a1eafce2c3, type: 2}
+    m_Threshold: 0.33333334
+    m_Position: {x: 1, y: 4}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: a47ae2962091fc14dbde42ae4ac0d412, type: 2}
+    m_Threshold: 0.37037036
+    m_Position: {x: 0, y: 5}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: a12e8f50aea846b4e961e815b521a2fb, type: 2}
+    m_Threshold: 0.4074074
+    m_Position: {x: 1, y: 5}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 1bd514a153a0dc142aa2bc7d5daece44, type: 2}
+    m_Threshold: 0.44444445
+    m_Position: {x: 0, y: 6}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 1d77adeeeb8cfdc4f9e8049f0149b105, type: 2}
+    m_Threshold: 0.4814815
+    m_Position: {x: 1, y: 6}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: e0d474218fc42b6419270aff637538c6, type: 2}
+    m_Threshold: 0.5185185
+    m_Position: {x: 0, y: 7}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: d4e2f746fca60464ca43fe0c763ac895, type: 2}
+    m_Threshold: 0.5555556
+    m_Position: {x: 1, y: 7}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 49fc7d14429aab64b915a6c0fc7e7c0e, type: 2}
+    m_Threshold: 0.5925926
+    m_Position: {x: 0, y: 8}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: bfb0c88bf170cd44984d7961073e1d02, type: 2}
+    m_Threshold: 0.6296296
+    m_Position: {x: 1, y: 8}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: dc92061cca0fca8448d9c9c1613999c9, type: 2}
+    m_Threshold: 0.6666667
+    m_Position: {x: 0, y: 9}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 2d2114c3edec90a44af192edc39d408d, type: 2}
+    m_Threshold: 0.7037037
+    m_Position: {x: 1, y: 9}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: b2991fa32206c0549b33dbf613ca0606, type: 2}
+    m_Threshold: 0.7407407
+    m_Position: {x: 0, y: 10}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 59b93790c2c43b544b248f7113821175, type: 2}
+    m_Threshold: 0.7777778
+    m_Position: {x: 1, y: 10}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 385e547a8b3b05b49b83f02f2298fe1d, type: 2}
+    m_Threshold: 0.8148148
+    m_Position: {x: 0, y: 11}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 64a2cd2e8ca371a4b8ae5a0b13de972a, type: 2}
+    m_Threshold: 0.8518519
+    m_Position: {x: 1, y: 11}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 7dffd65fb7687cb49ba54df03bea8735, type: 2}
+    m_Threshold: 0.8888889
+    m_Position: {x: 0, y: 12}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: f2542aafeb9b6b04e884227b01fc8013, type: 2}
+    m_Threshold: 0.9259259
+    m_Position: {x: 1, y: 12}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 843f2ffd23fc88f43a9ea5bf24a1cbbd, type: 2}
+    m_Threshold: 0.962963
+    m_Position: {x: 0, y: 13}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 0f1e941519418c543a36488a3916391a, type: 2}
+    m_Threshold: 1
+    m_Position: {x: 1, y: 13}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: dialegNumAnimacio
+    m_Mirror: 0
+  m_BlendParameter: dialegOrientacio
+  m_BlendParameterY: dialegNumAnimacio
+  m_MinThreshold: 0
+  m_MaxThreshold: 1
+  m_UseAutomaticThresholds: 1
+  m_NormalizedBlendValues: 0
+  m_BlendType: 2
+--- !u!91 &9100000
+AnimatorController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Camrer_AC
+  serializedVersion: 5
+  m_AnimatorParameters:
+  - m_Name: dialegNumAnimacio
+    m_Type: 1
+    m_DefaultFloat: 12
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
+  - m_Name: dialegOrientacio
+    m_Type: 1
+    m_DefaultFloat: 1
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
+  - m_Name: isXarrant
+    m_Type: 4
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 1
+    m_Controller: {fileID: 0}
+  m_AnimatorLayers:
+  - serializedVersion: 5
+    m_Name: Base Layer
+    m_StateMachine: {fileID: 6216384612404182246}
+    m_Mask: {fileID: 0}
+    m_Motions: []
+    m_Behaviours: []
+    m_BlendingMode: 0
+    m_SyncedLayerIndex: -1
+    m_DefaultWeight: 0
+    m_IKPass: 0
+    m_SyncedLayerAffectsTiming: 0
+    m_Controller: {fileID: 9100000}
+--- !u!1107 &6216384612404182246
+AnimatorStateMachine:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Base Layer
+  m_ChildStates:
+  - serializedVersion: 1
+    m_State: {fileID: -5100012299041844553}
+    m_Position: {x: 380, y: 230, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -2134100210470998567}
+    m_Position: {x: 20, y: 240, z: 0}
+  m_ChildStateMachines: []
+  m_AnyStateTransitions: []
+  m_EntryTransitions: []
+  m_StateMachineTransitions: {}
+  m_StateMachineBehaviours: []
+  m_AnyStatePosition: {x: 50, y: 20, z: 0}
+  m_EntryPosition: {x: 50, y: 120, z: 0}
+  m_ExitPosition: {x: 800, y: 120, z: 0}
+  m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
+  m_DefaultState: {fileID: -2134100210470998567}
+--- !u!206 &7251690038040333637
+BlendTree:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BlendTree
+  m_Childs: []
+  m_BlendParameter: "numAnimaci\xF3"
+  m_BlendParameterY: "numAnimaci\xF3"
+  m_MinThreshold: 0
+  m_MaxThreshold: 1
+  m_UseAutomaticThresholds: 1
+  m_NormalizedBlendValues: 0
+  m_BlendType: 0
+--- !u!1101 &7448823547907380069
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: isXarrant
+    m_EventTreshold: 0
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: -5100012299041844553}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0.25
+  m_TransitionOffset: 0
+  m_ExitTime: 0.25
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 0
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 1

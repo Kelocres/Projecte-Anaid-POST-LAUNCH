@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: 184988e3ce267e648823e533ece79f2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4919851915792841686
+    second: Front_Idle
+  - first:
+      213: 1035014515207901912
+    second: Front_1
+  - first:
+      213: 7922095857197143294
+    second: Front_2
+  - first:
+      213: -6040332471977338190
+    second: Front_3
+  - first:
+      213: 2478352090452895322
+    second: Front_4
+  - first:
+      213: 2687419544597669673
+    second: Tras_Idle
+  - first:
+      213: 1296952645601050948
+    second: Tras_1
+  - first:
+      213: -4864214639248863484
+    second: Tras_2
+  - first:
+      213: 3046192307929765114
+    second: Tras_3
+  - first:
+      213: 6007774173535618503
+    second: Tras_4
+  - first:
+      213: -3724320697254714307
+    second: LatEsq_Idle
+  - first:
+      213: 5468959732955538048
+    second: LatEsq_1
+  - first:
+      213: -454749755098412785
+    second: LatEsq_2
+  - first:
+      213: 2818991543458568766
+    second: LatEsq_3
+  - first:
+      213: -807111778079528565
+    second: LatEsq_4
+  - first:
+      213: 5123968015725841107
+    second: LatDret_Idle
+  - first:
+      213: -6723368339805948861
+    second: LatDret_1
+  - first:
+      213: -6544974765546579348
+    second: LatDret_2
+  - first:
+      213: -8599635993617051437
+    second: LatDret_3
+  - first:
+      213: 8581641740996118914
+    second: LatDret_4
+  - first:
+      213: 9160137625457103260
+    second: DialegEsq_escoltar
+  - first:
+      213: 6328182855008637887
+    second: DialegEsq_salutacio
+  - first:
+      213: -5320268100605725520
+    second: DialegEsq_xarrar
+  - first:
+      213: 3751300516979681928
+    second: DialegDret_escoltar
+  - first:
+      213: -5571031397002062488
+    second: DialegDret_salutacio
+  - first:
+      213: -6671282605920821275
+    second: DialegDret_xarrar
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Front_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7455
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db7b5c3043d64440800000000000000
+      internalID: 4919851915792841686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_1
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 7455
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d21754c73c1d5e00800000000000000
+      internalID: 1035014515207901912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_2
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 7455
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef454d48530f0fd60800000000000000
+      internalID: 7922095857197143294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_3
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 7455
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba988aae9d6c2ca0800000000000000
+      internalID: -6040332471977338190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_4
+      rect:
+        serializedVersion: 2
+        x: 4852
+        y: 7455
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56aacb6810e46220800000000000000
+      internalID: 2478352090452895322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tras_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5964
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927af2656d1ab4520800000000000000
+      internalID: 2687419544597669673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tras_1
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 5964
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441cd834f83bff110800000000000000
+      internalID: 1296952645601050948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tras_2
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 5964
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f015cae86de7cb0800000000000000
+      internalID: -4864214639248863484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tras_3
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 5964
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af45eafb3cf364a20800000000000000
+      internalID: 3046192307929765114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tras_4
+      rect:
+        serializedVersion: 2
+        x: 4852
+        y: 5964
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c54b50c7c6ef5350800000000000000
+      internalID: 6007774173535618503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LatEsq_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4473
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d346f72ee0e805cc0800000000000000
+      internalID: -3724320697254714307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LatEsq_1
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 4473
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082eabdb6e5a5eb40800000000000000
+      internalID: 5468959732955538048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LatEsq_2
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 4473
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09c9a1d18760b9f0800000000000000
+      internalID: -454749755098412785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LatEsq_3
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 4473
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a9da48fd11f1720800000000000000
+      internalID: 2818991543458568766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LatEsq_4
+      rect:
+        serializedVersion: 2
+        x: 4852
+        y: 4473
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8929853d109cc4f0800000000000000
+      internalID: -807111778079528565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LatDret_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2982
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da4dc923cdfb1740800000000000000
+      internalID: 5123968015725841107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LatDret_1
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2982
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34432cbed1cc1b2a0800000000000000
+      internalID: -6723368339805948861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LatDret_2
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 2982
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a53b3a0249b25a0800000000000000
+      internalID: -6544974765546579348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LatDret_3
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 2982
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0daca60a4f7a880800000000000000
+      internalID: -8599635993617051437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LatDret_4
+      rect:
+        serializedVersion: 2
+        x: 4852
+        y: 2982
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2890db922bd181770800000000000000
+      internalID: 8581641740996118914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialegEsq_escoltar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1491
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c919f0b43a85f1f70800000000000000
+      internalID: 9160137625457103260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialegEsq_salutacio
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1491
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3d18a47c832d750800000000000000
+      internalID: 6328182855008637887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialegEsq_xarrar
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 1491
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4bd89b95c9a26b0800000000000000
+      internalID: -5320268100605725520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialegDret_escoltar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a2058e1fb4f0430800000000000000
+      internalID: 3751300516979681928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialegDret_salutacio
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 0
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865d4250678bfa2b0800000000000000
+      internalID: -5571031397002062488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialegDret_xarrar
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 0
+        width: 1213
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efd8ddd0d7da63a0800000000000000
+      internalID: -6671282605920821275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 12685f3f8f3bd464fbb1a62069c169aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,245 @@
+{
+    "liniesDialeg": [
+        {
+        
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "L'arma mortal, es a dir l'espasa, és lo suficientment lleugera per a que una persona,  ",
+            "textCastellano" :
+                "El arma mortal, es decir la espada, es lo suficientemente ligera para que una persona,  ",
+            "textEnglish" :
+                "The deadly weapon, I mean the sword, is light enough to any person,  "
+        },
+        {
+        
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "adulta i sense necessitar experiència, puga atacar a algú de manera mortífera.  ",
+            "textCastellano" :
+                "adulta y sin necesitar experiencia, pueda atacar a alguien de manera mortífera.  ",
+            "textEnglish" :
+                "being an adult and not necessarily experienced, could attack someone in a mortal way.  "
+        },
+        {
+        
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Sobre tot si l'atac és furtiu i en la foscor.  ",
+            "textCastellano" :
+                "Sobre todo si el ataque es furtivo y en la oscuridad.  ",
+            "textEnglish" :
+                "Especially if the attack is furtive and in the dark.  "
+        },
+        {
+        
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "I vosté podria ser eixa persona. O m'equivoque?  ",
+            "textCastellano" :
+                "Y usted podría ser esa persona. ¿O me equivoco?  ",
+            "textEnglish" :
+                "And you could be that person. Or am I wrong?  "
+        },
+        {
+        
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Vosté no sap res de les fades, veritat?  ",
+            "textCastellano" :
+                "Usted no sabe nada de las hadas, ¿verdad?  ",
+            "textEnglish" :
+                "You know nothing about fairies, right?  "
+        },
+        {
+        
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Per què ho diu?  ",
+            "textCastellano" :
+                "¿Por qué lo dice?  ",
+            "textEnglish" :
+                "Why do you say so?  "
+        },
+        {
+        
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Per a les fades, el ferro es terríblement verinós al mínim contacte.  ",
+            "textCastellano" :
+                "Para las hadas, el hierro es terriblemente venenoso al mínimo contacto.  ",
+            "textEnglish" :
+                "For fairies, iron is terribly poisonous at minimum contact.  "
+        },
+        {
+        
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "De fet, els vostres avantpassats ens expulsaren d'aquestes terres emprant armes de ferro.  ",
+            "textCastellano" :
+                "De hecho, vuestros antepasados nos expulsaron de estas tierras utilizando armas de hierro.  ",
+            "textEnglish" :
+                "In fact, your ancestors threw us out of these lands using iron weapons.  "
+        },
+        {
+        
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Podria blandir-la agarrant-la exclusivament del mànec de cuir, però el risc de tocar les parts metàl·liques es massa gran.  ",
+            "textCastellano" :
+                "Podría blandirla agarrándola exclusivamente del mango de cuero, pero el riesgo de tocar las partes metálicas es demasiado grande.  ",
+            "textEnglish" :
+                "I could wield it grabbing it exclusively from the leather handle, but is too risky to touch the metalic parts.  "
+        },
+        {
+        
+            "nom": "LORENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Així que jo no puc ser la seua homicida.  ",
+            "textCastellano" :
+                "Así que yo no puedo ser su homicida.  ",
+            "textEnglish" :
+                "So I can't be your homicide.  "
+        }
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Això encara està per vore...",
+            "textCastellano" :
+                "Eso todavía está por ver...",
+            "textEnglish" :
+                "That is not verified yet..."
+    }
+}

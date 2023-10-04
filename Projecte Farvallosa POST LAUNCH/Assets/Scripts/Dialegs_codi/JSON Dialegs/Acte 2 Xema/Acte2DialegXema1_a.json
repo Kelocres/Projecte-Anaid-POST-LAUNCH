@@ -1,0 +1,146 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant",
+                    "canviaOrientacio":-1
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                }
+            ],
+            "textValencia" :
+                "Ací, a la barra, es una bona posició per a vigilar-ho tot en aquesta part del bar.",
+            "textCastellano" :
+                "Aquí, en la barra, es una buena posición para vigilarlo todo en esta parte del bar.",
+            "textEnglish" :
+                "Here, in the bar, is a good position to watch it everything in this part of the place."
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant",
+                    "canviaOrientacio":1
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                }
+            ],
+            "textValencia" :
+                "Vas poder vore l'homicidi?",
+            "textCastellano" :
+                "¿Pudiste ver el homicidio?",
+            "textEnglish" :
+                "Could you see the homicide?"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar",
+                    "canviaOrientacio":1
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_xarrar"
+                }
+            ],
+            "textValencia" :
+                "No. Ja li ho vaig dir al sereno: Es van apagar les llums i es quedé tot fosc.",
+            "textCastellano" :
+                "No. Ya se lo dije al sereno: Se apagaron las luces y se oscureció todo.",
+            "textEnglish" :
+                "No. I already told it to the guard: Lights were turned off and and everything was darkened."
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar",
+                    "canviaOrientacio":1
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Vaig buscar l'interruptor per a tornar a encendre-les i, quan s'il·luminà tot de nou, l'home ja estava atrava enterra i atravessat com una broqueta.",
+            "textCastellano" :
+                "Fui a buscar el interruptor para volver a encenderlas y, cuando se iluminó todo de nuevo, el hombre ya estaba en el suelo y atravesado como un pincho moruno.",
+            "textEnglish" :
+                "I went to click the switch so the lights were turned on again and, when everything was clear, that man was in the floor and threaded like a shish kebab."
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar",
+                    "canviaOrientacio":1
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                }
+            ],
+            "textValencia" :
+                "I abans de l'apagada? Hi havia algú més sentat amb ell?",
+            "textCastellano" :
+                "¿Y antes del apagón? ¿Había alguien más sentado con él?",
+            "textEnglish" :
+                "And before that? Was somebody else seated with him?"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar",
+                    "canviaOrientacio":1
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_xarrar"
+                }
+            ],
+            "textValencia" :
+                "No. Ell bebia a soles, com altres nits.",
+            "textCastellano" :
+                "No. Él bebía a solas, como otras noches.",
+            "textEnglish" :
+                "No. He was drinking alone, like other nights."
+        }
+
+
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "liniesDialeg": [
+        
+
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "DETECTIU",
+        "idPersonatge": "AndreuDetectiu",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "reflexionar"
+            },
+            {
+                "idPersonatge" : "ChemaCambrer",
+                "anim" : "generic_callat"
+            }
+        ],
+        "textValencia" :
+            "Interessant informació... però insuficient.",
+        "textCastellano" :
+            "Interesante información... pero insuficiente.",
+        "textEnglish" :
+            "Interesting information... but not enough."
+    }
+}

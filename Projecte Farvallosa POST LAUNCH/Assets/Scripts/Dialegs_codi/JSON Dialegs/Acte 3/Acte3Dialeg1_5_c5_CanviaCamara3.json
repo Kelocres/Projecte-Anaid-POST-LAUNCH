@@ -1,0 +1,33 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "ÉS EN REALITAT...  ",
+            "textCastellano" :
+                "¡¡ES EN REALIDAD...  ",
+            "textEnglish" :
+                "IT'S ACTUALLY...  "
+        }
+    ]
+    
+}

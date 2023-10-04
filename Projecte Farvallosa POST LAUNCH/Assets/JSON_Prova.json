@@ -1,0 +1,42 @@
+{
+    "liniesJSON":
+    {
+        "instanceID":19376
+    },
+
+    "jsonMostra":"",
+    "liniesDialeg":[
+        {
+            "nom":"Sereno",
+            "idPersonatge":"Sereno",
+            "anims":[
+                {"instanceID":16382},
+                {"instanceID":16380}
+                ],
+            "textValencia":"Bona nit, senyor detectiu!",
+            "textCastellano":"¡Buenas noches, señor detective!",
+            "textEnglish":"Good night, mister detective!"
+            },
+        {
+            "nom":"Detectiu",
+            "idPersonatge":"AndreuDetectiu",
+            "anims":[
+                {"instanceID":16382},
+                {"instanceID":16380}],
+            "textValencia":"Hola.",
+            "textCastellano":"Hola.",
+            "textEnglish":"Hi."
+        }],
+        
+        "desicio":{
+            "nom":"",
+            "idPersonatge":"",
+            "anims":[],
+            "opcions":[],
+            "textValencia":"",
+            "textCastellano":"",
+            "textEnglish":""},
+            "activador":{"instanceID":0},
+            "nextDialeg":{"instanceID":0},
+            "despresDialeg":0
+}

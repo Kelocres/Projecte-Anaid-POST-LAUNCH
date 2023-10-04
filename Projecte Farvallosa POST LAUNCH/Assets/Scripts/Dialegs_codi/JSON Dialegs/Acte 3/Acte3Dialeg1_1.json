@@ -1,0 +1,360 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                },
+                
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "basic_callar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                },
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "Senyors, semigata i fada: aquesta trista història està més a prop d'acabar-se.  ",
+            "textCastellano" :
+                "Señores, semigata y hada: esta triste historia está más cerca de acabarse.  ",
+            "textEnglish" :
+                "Gentlemen, semicat and fairy: this unhappy story is near to end.  "
+        },
+
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                }
+            ],
+            "textValencia" :
+                "L'hora en que cadascú de vosaltres, que sigui inocent, torne a sa casa i oblidar-se d'aquesta desagradable nit, està ja més pròxima.  ",
+            "textCastellano" :
+                "La hora en que cada uno de ustedes, que sea inocente, vuelva a casa y se olvide de esta noche desagradable, está ahora más próxima.  ",
+            "textEnglish" :
+                "The time in which all of you, who are innocent, can go back home and forget this unpleasant night, is really soon.  "
+        },
+
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                }
+            ],
+            "textValencia" :
+                "No obstant això, per a desenmascarar al culpable encara fa falta un lleugera espenta a la lògica deductiva per ajuntar les peces del trencaclosques.  ",
+            "textCastellano" :
+                "No obstante, para desenmascarar al culpable todavía hace falta un ligero empujón a la lógica deductiva para juntar las piezas del rompecabezas.  ",
+            "textEnglish" :
+                "Nonetheless, in order to unmask the culprit it is necessary a little push up to the deductive logic so the puzzle's pieces can be put together.  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "nervios_xarrar"
+                }
+            ],
+            "textValencia" :
+                "De veritat tens que fer ara una xarrada pretenciosa per a dir qui va matar al desgraciat?!  ",
+            "textCastellano" :
+                "¡¿De verdad tienes que hacer ahora una charla pretenciosa para decir quién mató al desgraciado?!  ",
+            "textEnglish" :
+                "Do you really have to do a pretentious talk to finally say who killed that guy?!  "
+        },
+        {
+            "nom": "SERENO",
+            "idPersonatge": "Sereno",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "nervios_callat"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Senyor, no interrumpa al detectiu!  ",
+            "textCastellano" :
+                "¡Señor, no interrumpa al detective!  ",
+            "textEnglish" :
+                "Sir, don't interrupt the detective!  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "desconfiat_xarrar",
+                    "canviaOrientacio" : -1
+                },
+                
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Va ser la gata verda esta! El va matar només va arribar al bar!  ",
+            "textCastellano" :
+                "¡Ha sido la gata verde esta!¡Lo mató nada más llegar al bar!  ",
+            "textEnglish" :
+                "This green cat did it! She killed him just when she entered the bar!  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "desconfiat_callat"
+                },
+                
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar",
+                    "canviaOrientacio": -1
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Xe! Veste'n a la merda, jo no he fet res!  ",
+            "textCastellano" :
+                "¡Oye! ¡Vete a la mierda, yo no he hecho nada!  ",
+            "textEnglish" :
+                "Hey! Go fuck yourself, I didn't do anything!  "
+        },
+        {
+            "nom": "SERENO",
+            "idPersonatge": "Sereno",
+            "anims": [
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar",
+                    "canviaOrientacio": 1
+                },
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Silenci, o els portarem tots al quartell municipal per a que declaren en les celdes!  ",
+            "textCastellano" :
+                "¡Silencio, o los llevaremos a todos al cuartel municipal para que declaren en las celdas!  ",
+            "textEnglish" :
+                "Silence, or you will be taken to the municipal quarter to declarare in the cells!  "
+        },
+        {
+            "nom": "LÒRENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "A mi també? Si jo estic callada!  ",
+            "textCastellano" :
+                "¿A mí también? ¡Si yo estoy callada!  ",
+            "textEnglish" :
+                "Me too? But I am quiet!  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                }
+            ],
+            "textValencia" :
+                "CALLEU-SE TOTHOM, PER FAVOR!!  ",
+            "textCastellano" :
+                "¡¡CÁLLENSE TODOS, POR FAVOR!!  ",
+            "textEnglish" :
+                "EVERYBODY SHUT UP, PLEASE!!  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "basic_callar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat",
+                    "canviaOrientacio" : 1
+                },
+                {
+                    "idPersonatge" : "Sereno",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "...  ",
+            "textCastellano" :
+                "...  ",
+            "textEnglish" :
+                "...  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                }
+            ],
+            "textValencia" :
+                "...bé, continuaré.  ",
+            "textCastellano" :
+                "...bien, continuaré.  ",
+            "textEnglish" :
+                "...good, I'll continue.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Segons la informació aconseguida, el difunt es deia Maiquel Kieras.  ",
+            "textCastellano" :
+                "Según la información conseguida, el difunto se llamaba Maiquel Kieras.  ",
+            "textEnglish" :
+                "According to the obtained information, the name of the deceased was Michael Kieras.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [                
+            ],
+            "textValencia" :
+                "La seua procedència és desconeguda, però pareix que tenia predilecció per relíquies esotèriques de diferent origen; fins al punt d'obtíndre-les mitjançant métodes il·legals.  ",
+            "textCastellano" :
+                "Su procedencia es desconocida, pero parece que tenía predilección por reliquias esotéricas de diferente origen; hasta el punto de obtenerlas utilizando métodos ilegales.  ",
+            "textEnglish" :
+                "His provenance is unknow, but it seems that he had predilection for esoteric relics of different origin; to the point of obtaining them through illegal methods.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [     
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                }           
+            ],
+            "textValencia" :
+                "Contactava en el poble amb persones desesperades de diners per a que furtaren aquests tressors per a ell, ja siga físicament o sols la informació pertinent.  ",
+            "textCastellano" :
+                "Contactaba en el pueblo con personas desesperadas de dinero para que robasen estos tesoros para él, ya sea físicamente o sólo la información pertinente.  ",
+            "textEnglish" :
+                "He made in town contact with people in need of money to make them steal these treassures for him, whether it would be the physical object or just the relevant information.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [     
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                }           
+            ],
+            "textValencia" :
+                "L'objectiu d'aquestes activitats fugix de la meua deducció, de moment. Però és innegable que moltes persones s'han vist involucrades o afectades per aquestes.  ",
+            "textCastellano" :
+                "El objetivo de estas actividades escapa de mi deducción, de momento. Pero es innegable que muchas personas se han visto involucradas o afectadas por éstas.  ",
+            "textEnglish" :
+                "The objective of this activities escape from my deduction, at the moment. But it is undeniable that lots of people have been involved or affected for them.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [     
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                }           
+            ],
+            "textValencia" :
+                "Persones com vostés, que esteu ací:  ",
+            "textCastellano" :
+                "Personas como ustedes, que están aquí:  ",
+            "textEnglish" :
+                "People as you, who are here:  "
+        }
+        
+
+    ],
+    "desicio":
+    {
+        "nom":"",
+        "idPersonatge":"",
+        "anims":[],
+        "textValencia":"",
+        "textCastellano":"",
+        "textEnglish":""
+    }
+}

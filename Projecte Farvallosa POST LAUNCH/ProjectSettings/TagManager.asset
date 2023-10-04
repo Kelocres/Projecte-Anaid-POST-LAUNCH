@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ManejaPartida
+  - CaixaDialeg
+  - CaixaDialeg_txtDialog
+  - CaixaDialeg_txtNom
+  - CaixaDialeg_Next
+  - BotonsDecisio
+  - Dialeg_PosCamara
+  - Colisionadors_Camera
+  - DirectorActe1Sequencia1
+  - NPC_Sereno
+  - UI_PantallaNegra
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

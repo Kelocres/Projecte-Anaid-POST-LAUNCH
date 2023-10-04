@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 7754e2b5af1377f448f7e51c92546012
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2416050211952928187
+    second: IdlePensativa_Esquerra
+  - first:
+      213: 5995448052990116625
+    second: DialegXarrar1_Esquerra
+  - first:
+      213: 683362898327045956
+    second: IdlePensativa_Dreta
+  - first:
+      213: -352161926763239202
+    second: DialegXarrar1_Dreta
+  - first:
+      213: 4195696051320478492
+    second: DialegFuriosa_Esquerra
+  - first:
+      213: -611992395689318863
+    second: DialegEscoltar1_Esquerra
+  - first:
+      213: 8641304325710132526
+    second: DialegFuriosa_Dreta
+  - first:
+      213: -9088550047939962327
+    second: DialegEscoltar1_Dreta
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdlePensativa_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 1101
+        height: 1280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb526f2fdd8878120800000000000000
+      internalID: 2416050211952928187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialegXarrar1_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1280
+        width: 1101
+        height: 1280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11388cb2d3c143350800000000000000
+      internalID: 5995448052990116625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePensativa_Dreta
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1280
+        width: 1101
+        height: 1280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44707777feacb7900800000000000000
+      internalID: 683362898327045956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialegXarrar1_Dreta
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 1280
+        width: 1101
+        height: 1280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed82cdbe79edc1bf0800000000000000
+      internalID: -352161926763239202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialegFuriosa_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1101
+        height: 1280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b5774345b1a3a30800000000000000
+      internalID: 4195696051320478492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialegEscoltar1_Esquerra
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 0
+        width: 1101
+        height: 1280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136a2b99824c187f0800000000000000
+      internalID: -611992395689318863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialegFuriosa_Dreta
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 0
+        width: 1101
+        height: 1280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25bff920841ce770800000000000000
+      internalID: 8641304325710132526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialegEscoltar1_Dreta
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 0
+        width: 1101
+        height: 1280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92add2572ebfed180800000000000000
+      internalID: -9088550047939962327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fc20ccdcfb33ee84bae178f425180a09
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

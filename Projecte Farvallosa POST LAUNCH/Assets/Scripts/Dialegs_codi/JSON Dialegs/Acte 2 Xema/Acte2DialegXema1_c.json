@@ -1,0 +1,210 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                }
+            ],
+            "textValencia" :
+                "L'espasa amb la qual han donat mort a l'home, és teua?",
+            "textCastellano" :
+                "La espada con la cual han dado muerte al hombre, ¿es tuya?",
+            "textEnglish" :
+                "The sword that was used to kill the man, is yours?"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "indiferent_callat"
+                }
+            ],
+            "textValencia" :
+                "...",
+            "textCastellano" :
+                "...",
+            "textEnglish" :
+                "..."
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "indiferent_xarrar"
+                }
+            ],
+            "textValencia" :
+                "De veres em preguntes això?",
+            "textCastellano" :
+                "¿De verdad me preguntas eso?",
+            "textEnglish" :
+                "Are you really asking me that?"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "orgullos_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Soc una persona REGGAE. En mi viu l'essència de la música, la vida lliure i el bon rotllo.",
+            "textCastellano" :
+                "Soy una persona REGGAE. En mí vive la esencia de la música, la vida libre y el buen rollo.",
+            "textEnglish" :
+                "I am a REGGAE person. The essence of music, free live and good vibes live in me."
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "orgullos_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Essència que el meu cor transmés pel bar fins alimentar els dels clients.",
+            "textCastellano" :
+                "Esencia que mi corazón transmite por el bar hasta alimentar al de los clientes.",
+            "textEnglish" :
+                "That essence is transmitted from my heart through the bar until feeding the clients."
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "orgullos_callat"
+                }
+            ],
+            "textValencia" :
+                "De quina manera pot ser meu eixe artefacte tan vil i cutre?",
+            "textCastellano" :
+                "¿De qué manera puede ser mío ese trasto tan vil y cutre?",
+            "textEnglish" :
+                "How the hell can be mine such a vile and shabby piece of junk?"
+        },
+        
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "orgullos_callat"
+                }
+            ],
+            "textValencia" :
+                "Pots estarviar-te el xarlatanisme. Lo de vestir de reggae sols ho has fet des de que et van contratar ací fa un mes.",
+            "textCastellano" :
+                "Puedes ahorrarte el parloteo. Lo de vestir de reggae sólo lo has hecho desde que te contrataron aquí hace un mes.",
+            "textEnglish" :
+                "Stop that chattering, please. You have only wearing that reggae uniform since you were hired here a month ago."
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "orgullos_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Que fora més prompte o tard no canvia res. Si el reggae et trova, et trova.",
+            "textCastellano" :
+                "Que ocurriese más pronto o tarde no cambia nada. Si el reggae te encuentra, te encuentra.",
+            "textEnglish" :
+                "It changes nothing if that happened sooner or later. If reggae finds you, it finds you."
+        }
+
+
+
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            {
+                "idPersonatge" : "",
+                "anim" : ""
+            },
+            {
+                "idPersonatge" : "",
+                "anim" : ""
+            }
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "XEMA",
+        "idPersonatge": "ChemaCambrer",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "reflexionar"
+            },
+            {
+                "idPersonatge" : "ChemaCambrer",
+                "anim" : "orgullos_callat"
+            }
+        ],
+        "textValencia" :
+            "No em fages perdre la paciència i centrem-nos...",
+        "textCastellano" :
+            "No me hagas perder la paciencia y centrémonos...",
+        "textEnglish" :
+            "Don't make me lose my patience..."
+    }
+}

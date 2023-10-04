@@ -1,0 +1,50 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                }
+            ],
+            "textValencia" :
+                "El botó de dalt, evidentment!!",
+            "textCastellano" :
+                "¡Buenas noches, señor!",
+            "textEnglish" :
+                "Good night, sir!"
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "investigar"
+                }
+            ],
+            "textValencia" :
+                "Aquest dubte insulta la nostra confiança...",
+            "textCastellano" :
+                "El JSON funciona bien, según parece",
+            "textEnglish" :
+                "JSON works well, it seems"
+        }
+
+    ],
+
+    "decisio" : null,
+    "activador" : null,
+    "nextDialeg" : null,
+    "despresDialeg" : 0
+}

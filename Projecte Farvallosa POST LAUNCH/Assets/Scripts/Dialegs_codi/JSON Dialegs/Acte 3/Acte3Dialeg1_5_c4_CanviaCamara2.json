@@ -1,0 +1,33 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "La raó per la qual hui devia acabar amb la seua vida...  ",
+            "textCastellano" :
+                "La razón por la cual hoy debía acabar con su vida...  ",
+            "textEnglish" :
+                "The reason why I had to end his life tonight...  "
+        }
+    ]
+    
+}

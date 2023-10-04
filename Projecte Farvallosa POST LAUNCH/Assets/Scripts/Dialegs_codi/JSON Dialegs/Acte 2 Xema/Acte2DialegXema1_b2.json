@@ -1,0 +1,208 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                }
+            ],
+            "textValencia" :
+                "I les persones que venien amb ell?",
+            "textCastellano" :
+                "¿Y las personas que venían con él?",
+            "textEnglish" :
+                "What about the people that came with him?"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_xarrar"
+                }
+            ],
+            "textValencia" :
+                "No sabria dir-te. Cada persona que es sentava amb ell era diferent.",
+            "textCastellano" :
+                "No sabría decirte. Cada persona que se sentaba con él era diferente.",
+            "textEnglish" :
+                "I don't know what to say. Each person that seated with him was different."
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_xarrar"
+                }
+            ],
+            "textValencia" :
+                "La major part eren humans, però varies vegades eran semigats.",
+            "textCastellano" :
+                "La mayor parte eran humanos, pero varias veces eran semigatos.",
+            "textEnglish" :
+                "Most of them were humans, but sometimes were semicats."
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexiu"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "indiferent_callat"
+                }
+            ],
+            "textValencia" :
+                "Serien acàs amics seus? O cites romàntiques?",
+            "textCastellano" :
+                "¿Serían acaso amigos suyos? ¿O citas románticas?",
+            "textEnglish" :
+                "May they be his friends? Or romantic dates?"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "indiferent_xarrar"
+                }
+            ],
+            "textValencia" :
+                "De segur que no. El tal Maiquel xarraba de manera amistosa, però l'acompanyant solia ser més reservat, tractant de portar la conversa cap a un punt concret.",
+            "textCastellano" :
+                "Seguro que no. El tal Maiquel hablaba de manera amistosa, pero el acompañante solía ser más reservado, tratando de llevar la conversación hacia un punto concreto.",
+            "textEnglish" :
+                "They were not for sure. That Maiquel talked in a friendly way, but the other person was often more reserved, trying to drive the conversation to a concret point."
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Les quedades es pareixien més a reunions de treball que fetes per plaer.",
+            "textCastellano" :
+                "Las quedadas se parecían más a reuniones de trabajo que hechas por placer.",
+            "textEnglish" :
+                "Those meetings were more like work reunions than done for pleasure."
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                }
+            ],
+            "textValencia" :
+                "Quin treball? De què xarraven?",
+            "textCastellano" :
+                "¿Qué trabajo? ¿De qué hablaban?",
+            "textEnglish" :
+                "What work? What did they talk about?"
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "desconfiat_xarrar"
+                }
+            ],
+            "textValencia" :
+                "I jo què sé! Es sentaven en taules llunyanes a a la barra. I a mi no em paguen per a espiar als clients!",
+            "textCastellano" :
+                "¡Y yo qué sé! Se sentaban en mesas lejanas a la barra. ¡Y a mí no me pagan para espiar a los clientes!",
+            "textEnglish" :
+                "I don't freaking know! They were in tables far apart from the bar. And I am not paid for spying the clients!"
+        }
+
+
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            {
+                "idPersonatge" : "",
+                "anim" : ""
+            },
+            {
+                "idPersonatge" : "",
+                "anim" : ""
+            }
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "XEMA",
+        "idPersonatge": "ChemaCambrer",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "escoltar"
+            },
+            {
+                "idPersonatge" : "ChemaCambrer",
+                "anim" : "desconfiat_xarrar"
+            }
+        ],
+        "textValencia" :
+            "Hem acabat ja? No crec que tinga més coses que dirte.",
+        "textCastellano" :
+            "¿Hemos acabado ya? No creo que tenga más cosas que decirte.",
+        "textEnglish" :
+            "Are we done? I don't think there is more stuff to tell you."
+    }
+}

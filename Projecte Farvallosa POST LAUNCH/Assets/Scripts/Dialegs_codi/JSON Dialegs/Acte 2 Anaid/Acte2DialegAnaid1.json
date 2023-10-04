@@ -1,0 +1,302 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "salutacio"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "Bona nit. Soc el detectiu Andreu, de la Guardia Civil.  ",
+            "textCastellano" :
+                "Buenas noches. Soy el detective Andreu, de la Guardia Civil.  ",
+            "textEnglish" :
+                "Good night. I am Andreu, military police's detective.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "Necessite la seua col·laboració per a ressoldre el incident d'aquesta nit.  ",
+            "textCastellano" :
+                "Necesito su colaboración para resolver el incidente de esta noche.  ",
+            "textEnglish" :
+                "I need your collaboration in order to resolve tonight's incident.  "
+        },
+        {
+            "nom": "¿?",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "...  ",
+            "textCastellano" :
+                "...  ",
+            "textEnglish" :
+                "...  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "Necessite que s'identifique, per favor.  ",
+            "textCastellano" :
+                "Necesito que se identifique, por favor.  ",
+            "textEnglish" :
+                "I need you to identificate yourself, please.  "
+        },
+        {
+            "nom": "¿?",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "...  ",
+            "textCastellano" :
+                "...  ",
+            "textEnglish" :
+                "...  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "...  ",
+            "textCastellano" :
+                "...  ",
+            "textEnglish" :
+                "...  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "Li avise de que, si bé te dret a no dir res, negar-me la seau identificació és un delicte d'obstrucció de les forces del ordre.  ",
+            "textCastellano" :
+                "Le aviso de que, si bien tiene derecho a no decir nada, negarme su identificación es un delito de obstrucción de las fuerzas del orden.  ",
+            "textEnglish" :
+                "I advise you that, even if you have a right to say nothing, deny me your identification is a crime of obstructing the police.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "Li avise que, si bé te dret a no dir res, negar-me la seau identificació és un delicte d'obstaculització de les forces del ordre.  ",
+            "textCastellano" :
+                "Le aviso que, si bien tiene derecho a no decir nada, negarme su identificación es un delito de obstaculización de las fuerzas del orden.  ",
+            "textEnglish" :
+                "I advise you that, even if you have a right to say nothing, deny me your identification is a crime of obstructing the police.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "I debut a que és sospitosa d'un homicidi, podriem tancar-la en la celda del quarter ara mateixa.  ",
+            "textCastellano" :
+                "Y debido a que es sospechosa de un homicidio, podríamos encerrarla en la celda del cuartel ahora mismo.  ",
+            "textEnglish" :
+                "And because you are a homicide suspect, we can lock you up in the quarter's cell right now.  "
+        },
+        {
+            "nom": "¿?",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "...  ",
+            "textCastellano" :
+                "...  ",
+            "textEnglish" :
+                "...  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "Em dic Anaíd.  ",
+            "textCastellano" :
+                "Me llamo Anaíd.  ",
+            "textEnglish" :
+                "My name is Anaíd.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "Bé, ara procediré a fer-li unes preguntes. Com l'hi he dit, pot no contestar-les.  ",
+            "textCastellano" :
+                "Bien, ahora procederé a hacerle unas preguntas. Como le he dicho, puede no contestarlas.  ",
+            "textEnglish" :
+                "Good, now I'll make some questions. As I said, you can choose not to answer them.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "enfadada_callar"
+                }
+            ],
+            "textValencia" :
+                "Ara bé, recomane que les conteste amb sinceritat per acabar aquesta desagradable situació quan abans millor.  ",
+            "textCastellano" :
+                "Ahora bien, recomiendo que las conteste con sinceridad para acabar esta desagradable situación cuanto antes mejor.  ",
+            "textEnglish" :
+                "However, I recommend to answer them sincerely so we can end this unpleasant situation.  "
+        }
+
+
+
+    ],
+    "desicio":
+    {
+        "nom": "ANAÍD",
+        "idPersonatge": "Anaid",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "escoltar"
+            },
+            {
+                "idPersonatge" : "Anaid",
+                "anim" : "enfadada_callar"
+            }
+        ],
+        "textValencia" :
+            "...  ",
+        "textCastellano" :
+            "...  ",
+        "textEnglish" :
+            "...  "
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    }
+}

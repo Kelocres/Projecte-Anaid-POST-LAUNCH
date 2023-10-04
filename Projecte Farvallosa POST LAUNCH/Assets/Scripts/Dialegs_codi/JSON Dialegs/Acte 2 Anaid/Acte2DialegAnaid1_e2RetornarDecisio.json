@@ -1,0 +1,41 @@
+{
+    "liniesDialeg": [
+        
+        
+        
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    },
+    "liniaRetornarDecisio":
+    {
+        "nom": "DETECTIU",
+        "idPersonatge": "AndreuDetectiu",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "reflexionar"
+            },
+            {
+                "idPersonatge" : "Anaid",
+                "anim" : "braçosCreuats_xarrar"
+            }
+        ],
+        "textValencia" :
+            "No em acabat amb la teua violació de local. Però primer, acabem l'interrogatori...  ",
+        "textCastellano" :
+            "No hemos acabado con tu allanamiento de local. Pero primero, acabemos el interrogatorio...  ",
+        "textEnglish" :
+            "We are not done with your forced entry. But first, we must finish the interrogation...  "
+    }
+}

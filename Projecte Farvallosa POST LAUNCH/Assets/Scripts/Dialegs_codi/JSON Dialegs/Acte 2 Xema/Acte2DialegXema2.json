@@ -1,0 +1,79 @@
+{
+    "liniesDialeg": [
+        
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "indiferent_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Jo ja no tinc més coses que dir-te. O es que vols una fanta?",
+            "textCastellano" :
+                "Yo ya no tengo más cosas que decirte. ¿O es que quieres un fanta?",
+            "textEnglish" :
+                "I have no more things to say. Or do you want a Fanta?"
+        },
+        {
+            "nom": "ANDREU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "indiferent_callat"
+                }
+            ],
+            "textValencia" :
+                "No tinc temps per a begudes, el deure em crida.",
+            "textCastellano" :
+                "No tengo tiempo para bebidas, el deber me llama.",
+            "textEnglish" :
+                "I don't have time for drinks, duty calls me."
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "desconfiat_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Antonces para de donar voltes pel bar i acaba la teua feina! El cadaver eixe el vull fora ja!",
+            "textCastellano" :
+                "¡Entonces para de dar vueltas por el bar y acaba tu trabajo! ¡El cadaver ese lo quiero fuera ya!",
+            "textEnglish" :
+                "Then stop walking around the bar and do your job! I want that corpse out of here now!"
+        }
+    ],
+    "desicio":
+    {
+        "nom": "",
+        "idPersonatge": "",
+        "anims": [
+            
+        ],
+        "textValencia" :
+            "",
+        "textCastellano" :
+            "",
+        "textEnglish" :
+            ""
+    }
+}

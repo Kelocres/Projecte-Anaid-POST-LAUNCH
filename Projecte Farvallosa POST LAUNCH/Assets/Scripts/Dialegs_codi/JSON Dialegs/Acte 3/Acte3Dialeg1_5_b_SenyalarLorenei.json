@@ -1,0 +1,423 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                }
+            ],
+            "textValencia" :
+                "La homicida és Lòrenei, la fada!!  ",
+            "textCastellano" :
+                "¡¡La homicida es Lórenei, la hada!!  ",
+            "textEnglish" :
+                "The homicide is Lorenei, the fairy!!  "
+        },
+        {
+            "nom": "LÒRENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar1"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "pensativa"
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "desconfiat_callat"
+                }
+            ],
+            "textValencia" :
+                "...  ",
+            "textCastellano" :
+                "...  ",
+            "textEnglish" :
+                "...  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                }
+            ],
+            "textValencia" :
+                "Per a vosaltres les fades, el furt de la relíquia és una malifeta més gran de la que sembla, veritat?  ",
+            "textCastellano" :
+                "Para vosotras las hadas, el hurto de la reliquia es una fechoría más grande de la que parece, ¿verdad?  ",
+            "textEnglish" :
+                "For you the fairies, the relic's theft is a bigger misdeed than it seems, right?  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "És la irrupció en la vostra casa. És la profanació de l'unic racó del mon que encara es vostre.  ",
+            "textCastellano" :
+                "Es la irrupción en vuestra casa. Es la profanación del único rincón del mundo que todavía es vuestro.  ",
+            "textEnglish" :
+                "It is the irruption in your home. It is the desecration of the only one corner of the world which is still yours.  "
+        },
+        
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "Una invasió per part dels humans, la qual no és la primera històricament, però sí que era la primera en molt de temps. I, sobretot, tampoc seria l'última.  ",
+            "textCastellano" :
+                "Una invasión por parte de los humanos, la cual no es la primera históricamente, pero sí que era la primera en mucho tiempo. Y, sobre todo, tampoco sería la última.  ",
+            "textEnglish" :
+                "An invasion made by the humans, which wasn't the first one historicaly, but it was the first one in a long time. And, above all, it wouldn't be the last one.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Aquest furt, si no es prengueren mesures urgents, incitaria a més criminals a saquejar el temple de les fades i traficar amb lo que traguen:  ",
+            "textCastellano" :
+                "Este hurto, si no se tomaran medidas urgentes, incitaría a más criminales a saquear el templo de las hadas y traficar con lo que saquen:  ",
+            "textEnglish" :
+                "This theft, if no urgent measures were made, will encourage more criminals to plunder the fairies' temple and traffic with the loot:  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Relíquies, menuderies, qualsevol tros de pedra al que li puguen atribuir una mica de misticisme... o inclús fades que aconseguisquen raptar.  ",
+            "textCastellano" :
+                "Reliquias, baratijas, cualquier trozo de piedra al que le puedan atribuir algo de misticismo... o incluso hadas que consigan raptar.  ",
+            "textEnglish" :
+                "Relics, trinkets, any piece of stone which can be conferfed a little bit of myticism... or even kidnapped fairies.  "
+        },
+        {
+            "nom": "LÒRENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "pensativa"
+                }
+            ],
+            "textValencia" :
+                "...  ",
+            "textCastellano" :
+                "...  ",
+            "textEnglish" :
+                "...  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                }
+            ],
+            "textValencia" :
+                "Per aquesta raó, va vindre vosté a investigar al poble, sense denunciar a la guàrdia civil.  ",
+            "textCastellano" :
+                "Por esta razón, vino usted a investigar al pueblo, sin denunciar a la guardia civil.  ",
+            "textEnglish" :
+                "For this reason, you came to investigate to the town, without reporting to the Guards.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                }
+            ],
+            "textValencia" :
+                "Va averiguar que Maiquel Kieras vendria ací, per raó d'algun negoci; i va estar ací sola, esperant-lo per atacar en el moment oportú.  ",
+            "textCastellano" :
+                "Averiguó que Maiquel Kieras vendría aquí, a causa de algún negocio; y se quedó aquí sola, esperándolo para atacar en el momento oportuno.  ",
+            "textEnglish" :
+                "You found out that Michael Kieras would come here, for business reasons; and you stayed here alone, waiting him so you could strike in the right moment.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                }
+            ],
+            "textValencia" :
+                "I només va vore que baixava la guàrdia, va apagar les llums, tragué l'espasa, i el va ensartar!  ",
+            "textCastellano" :
+                "Y nada más vió que bajaba la guardia, apagó las luces, sacó la espada, ¡y lo ensartó!  ",
+            "textEnglish" :
+                "And just when he lowered his guard, you turned off the lights, took out the sword, and killed him!  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                }
+            ],
+            "textValencia" :
+                "Amb aquest acte, ben sabia vosté que no recuperaria la relíquia. Perque lo important era comunicar un missatge als humans:  ",
+            "textCastellano" :
+                "Con este acto, bien sabía usted que no recuperaría la reliquia. Porque lo importante era comunicar un mensaje a los humanos:  ",
+            "textEnglish" :
+                "With this action, you knew well that you wouldn't get back the relic. Because the important thing was giving a message to humans:  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "acusar2"
+                }
+            ],
+            "textValencia" :
+                "'Aquella persona que profane la llar sagrada de les fades, trobará la mort!'  ",
+            "textCastellano" :
+                "'Aquella persona que profane el hogar sagrado de las hadas, ¡encontrará la muerte!'  ",
+            "textEnglish" :
+                "'Any person that profanes the faires' sacred home, will find death!'  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "interrogant"
+                }
+            ],
+            "textValencia" :
+                "Veritat que sí, senyora Lòrenei?  ",
+            "textCastellano" :
+                "¿Verdad que sí, señora Lórenei?  ",
+            "textEnglish" :
+                "Or am I wrong, miss Lorenei?  "
+        },
+        {
+            "nom": "LÒRENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Lamente dir-ho, senyor detectiu, però vosté té unes capacitats de deducció pèssimes.  ",
+            "textCastellano" :
+                "Lamento decirlo, señor detective, pero usted tiene unas capacidades de deducción pésimas.  ",
+            "textEnglish" :
+                "I regret to say this, mister detective, but you have poor deduction capacities.  "
+        },
+        {
+            "nom": "LÒRENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat"
+                }
+            ],
+            "textValencia" :
+                "En primer lloc, si bé no negue la meua desconfiança en les autoritats humanes, allò 'd'assassinar per enviar un missatge' és d'estupides.  ",
+            "textCastellano" :
+                "En primer lugar, si bien no niego mi desconfianza en las autoridades humanas, eso de 'asesinar para enviar un mensaje' es de estúpidas.  ",
+            "textEnglish" :
+                "In the first place, although I don't deny my distrust in human authorities, that thing about 'murdering to send a message' is for fools.  "
+        },
+        {
+            "nom": "LÒRENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "Sé molt bé que qualsevol atac que emprenga una fada contra un humà, siga o no un criminal, pot desencadenar un terrible conflicte entre espècies.  ",
+            "textCastellano" :
+                "Sé muy bien que cualquier ataque que tome una hada contra un humano, sea o no un criminal, puede desencadenar un terrible conflicto entre especies.  ",
+            "textEnglish" :
+                "I know very well that any attack commited by a fairy against a human, even a criminal one, can trigger a terrible conflict among species.  "
+        },
+        {
+            "nom": "LÒRENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "Jo sols he vingut a recuperar una relíquia, no a començar una guerra.  ",
+            "textCastellano" :
+                "Yo sólo he venido a recuperar una reliquia, no a empezar una guerra.  ",
+            "textEnglish" :
+                "I only came to recover a relic, not to begin a war.  "
+        },
+        {
+            "nom": "LÒRENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "A més, si tantes ganes tenia 'd'enviar un missatge', per què negaria la meua culpabilitat? No deuria afirmar que jo fora l'assassina?  ",
+            "textCastellano" :
+                "Además, si tantas ganas tenía de 'enviar un mensaje', ¿por qué negaría mi culpabilidad? ¿No debería afirmar que yo fuese la asesina?  ",
+            "textEnglish" :
+                "Furthermore, if I was so willing to 'send a message', why would I deny my culpability? Should I not claim the murder?  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "...  ",
+            "textCastellano" :
+                "...  ",
+            "textEnglish" :
+                "...  "
+        },
+        {
+            "nom": "LÒRENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "furiosa"
+                }
+            ],
+            "textValencia" :
+                "Apart d'allò, jo no tenia manera d'averiguar la identitat de l'home sospitós. Trobar-lo ací ha sigut pura casualitat.  ",
+            "textCastellano" :
+                "Aparte de eso, yo no tenía manera de averiguar la identidad del hombre sospechoso. Encontrarlo aquí ha sido pura casualidad.  ",
+            "textEnglish" :
+                "Besides that, I couldn't discover the identity of the suspicious man. Finding him here was only by chance.  "
+        },
+        {
+            "nom": "LÒRENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "Fins ara no coneixia el seu nom; i la seua apariència, si be la recordava, és massa genèrica com per a preguntar per ella.  ",
+            "textCastellano" :
+                "Hasta ahora no conocía su nombre; y su apariencia, si bien la recordaba, es demasiado genérica como para preguntar por ella.  ",
+            "textEnglish" :
+                "I didn't know his name until now; and his look, although I remember it, is too common to ask for it.  "
+        },
+        {
+            "nom": "LÒRENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "I per últim, li recorde que tocar el ferro es verinós per a una fada. De cap manera podria portar damunt l'espasa, ni empunyar-la.  ",
+            "textCastellano" :
+                "Y por último, le recuerdo que tocar el hierro es venenoso para un hada. De ningún modo podría llevar encima la espada, ni empuñarla.  ",
+            "textEnglish" :
+                "And last, I remember you that touching iron is poissonous for a fairy. There is no way I could carry that sword, neither wield it.  "
+        },
+        {
+            "nom": "DETECTIU",
+            "idPersonatge": "AndreuDetectiu",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "reflexionar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar"
+                }
+            ],
+            "textValencia" :
+                "És... una explicació raonable, senyora fada. Perdone les molèsties, és vosté inocent.  ",
+            "textCastellano" :
+                "Es... una explicación razonable, señora hada. Perdone las molestias, es usted inocente.  ",
+            "textEnglish" :
+                "That is... a reasonable explanation, miss fairy. Sorry for any inconveniences, you are innocent.  "
+        }
+
+    ],
+    "liniaRetornarDecisio":
+    {
+        "nom": "DETECTIU",
+        "idPersonatge": "AndreuDetectiu",
+        "anims": [
+            {
+                "idPersonatge" : "AndreuDetectiu",
+                "anim" : "interrogant"
+            }
+        ],
+        "textValencia" :
+            "La vertadera persona assassina és... és...  ",
+        "textCastellano" :
+            "La verdadera persona asesina es... es...  ",
+        "textEnglish" :
+            "The real murderer is... is...  "
+    }
+    
+}

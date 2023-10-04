@@ -1,0 +1,93 @@
+{
+    "liniesDialeg": [
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                {
+                    "idPersonatge" : "AndreuDetectiu",
+                    "anim" : "escoltar"
+                },
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "escoltar",
+                    "canviaOrientacio":-1
+                },
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "generic_callat",
+                    "canviaOrientacio":-1
+                },
+                {
+                    "idPersonatge" : "Anaid",
+                    "anim" : "iracunda_xarrar"
+                }
+            ],
+            "textValencia" :
+                "Sí, molts més del que vosté creu. En realitat Maiquel Kieras no era un traficant de tressors.  ",
+            "textCastellano" :
+                "Sí, muchos más de los que usted cree. En realidad Maiquel Kieras no era un traficante de tesoros.  ",
+            "textEnglish" :
+                "Yes, a lot more than you believe. In reality Michael Kieras was not a treassure dealer.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "Era un home vil i poderós, i les seues intencions acabarien posant-nos en greu perill a tots si no l'haguera parat esta nit.  ",
+            "textCastellano" :
+                "Era un hombre vil y poderoso, y sus intenciones acabarían poniéndonos en grave peligro a todos si no lo hubiese parado esta noche.  ",
+            "textEnglish" :
+                "He was a vile and powerful man, and his purposes would have endangered seriously all of us if I hadn't stop him tonight.  "
+        },
+        {
+            "nom": "ANAÍD",
+            "idPersonatge": "Anaid",
+            "anims": [
+                
+            ],
+            "textValencia" :
+                "No sols aquest poble, sino tots els mons que coneixem!  ",
+            "textCastellano" :
+                "¡No sólo este pueblo, sino todos los mundos que conocemos!  ",
+            "textEnglish" :
+                "Not only this town, but all the worlds we know!  "
+        },
+        {
+            "nom": "XEMA",
+            "idPersonatge": "ChemaCambrer",
+            "anims": [
+                {
+                    "idPersonatge" : "ChemaCambrer",
+                    "anim" : "sorpres"
+                }
+            ],
+            "textValencia" :
+                "Greu perill?!  ",
+            "textCastellano" :
+                "¡¿Grave perligro?!  ",
+            "textEnglish" :
+                "Endanger seriously?!!  "
+        },
+        {
+            "nom": "LÒRENEI",
+            "idPersonatge": "Lorenei",
+            "anims": [
+                {
+                    "idPersonatge" : "Lorenei",
+                    "anim" : "xarrar"
+                }
+            ],
+            "textValencia" :
+                "Tots els mons?!  ",
+            "textCastellano" :
+                "¡¿Todos los mundos?!  ",
+            "textEnglish" :
+                "All the worlds?!!  "
+        }
+    ]
+    
+}
